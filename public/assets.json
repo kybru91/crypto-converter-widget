@@ -1,710 +1,10 @@
 [
     {
-        "SYMBOL": "BTC",
-        "URI": "bitcoin",
-        "NAME": "Bitcoin",
-        "LOGO": "/1/1756822117897.png",
-        "TOTAL_MKT_CAP_USD": 1567226497007.5947
-    },
-    {
-        "SYMBOL": "BOBO",
-        "URI": "bobo",
-        "NAME": "BOBO",
-        "LOGO": "/11487/1707905825045.png",
-        "TOTAL_MKT_CAP_USD": 950282273593.6278
-    },
-    {
-        "SYMBOL": "ETH",
-        "URI": "ethereum",
-        "NAME": "Ethereum",
-        "LOGO": "/2/1774347920093.png",
-        "TOTAL_MKT_CAP_USD": 263283173424.5654
-    },
-    {
-        "SYMBOL": "USDT",
-        "URI": "tether",
-        "NAME": "Tether",
-        "LOGO": "/7/1774348249397.png",
-        "TOTAL_MKT_CAP_USD": 195231439715.79813
-    },
-    {
-        "SYMBOL": "BNB",
-        "URI": "binance-coin",
-        "NAME": "BNB",
-        "LOGO": "/8/1661250459982.png",
-        "TOTAL_MKT_CAP_USD": 88646434241.25204
-    },
-    {
-        "SYMBOL": "XRP",
-        "URI": "xrp",
-        "NAME": "XRP",
-        "LOGO": "/13/1773833665977.png",
-        "TOTAL_MKT_CAP_USD": 140149523695.2981
-    },
-    {
-        "SYMBOL": "USDC",
-        "URI": "usd-coin",
-        "NAME": "USDC",
-        "LOGO": "/14/1770198785994.png",
-        "TOTAL_MKT_CAP_USD": 76959224017.12558
-    },
-    {
-        "SYMBOL": "SOL",
-        "URI": "solana",
-        "NAME": "Solana",
-        "LOGO": "/3/1774347784903.png",
-        "TOTAL_MKT_CAP_USD": 53704465401.401985
-    },
-    {
-        "SYMBOL": "TRX",
-        "URI": "tron",
-        "NAME": "TRON",
-        "LOGO": "/28/1774268248300.png",
-        "TOTAL_MKT_CAP_USD": 33341015557.71493
-    },
-    {
-        "SYMBOL": "WBT",
-        "URI": "wbt",
-        "NAME": "WhiteBIT Coin",
-        "LOGO": "/1730/1715243149555.png",
-        "TOTAL_MKT_CAP_USD": 18387304525.28388
-    },
-    {
-        "SYMBOL": "DOGE",
-        "URI": "dogecoin",
-        "NAME": "Dogecoin",
-        "LOGO": "/26/1774277513410.png",
-        "TOTAL_MKT_CAP_USD": 16728956062.293283
-    },
-    {
-        "SYMBOL": "HYPE",
-        "URI": "hype",
-        "NAME": "Hyperliquid",
-        "LOGO": "/18199/1734005255874.png",
-        "TOTAL_MKT_CAP_USD": 41159711787.24882
-    },
-    {
-        "SYMBOL": "ADA",
-        "URI": "cardano",
-        "NAME": "Cardano",
-        "LOGO": "/12/1774277029994.png",
-        "TOTAL_MKT_CAP_USD": 11405429174.138578
-    },
-    {
-        "SYMBOL": "LEO",
-        "URI": "unus-sed-leo",
-        "NAME": "LEO Token",
-        "LOGO": "/300/1668609679280.png",
-        "TOTAL_MKT_CAP_USD": 9189062714.066498
-    },
-    {
-        "SYMBOL": "USDS",
-        "URI": "usds",
-        "NAME": "Sky Dollar",
-        "LOGO": "/16976/1726758180460.png",
-        "TOTAL_MKT_CAP_USD": 8450680088.573059
-    },
-    {
-        "SYMBOL": "BCH",
-        "URI": "bitcoin-cash",
-        "NAME": "Bitcoin Cash",
-        "LOGO": "/29/1774276616943.png",
-        "TOTAL_MKT_CAP_USD": 8273912434.755774
-    },
-    {
-        "SYMBOL": "ZEC",
-        "URI": "zcash",
-        "NAME": "ZCash",
-        "LOGO": "/102/1663775308762.png",
-        "TOTAL_MKT_CAP_USD": 8159574864.101635
-    },
-    {
-        "SYMBOL": "XMR",
-        "URI": "monero",
-        "NAME": "Monero",
-        "LOGO": "/42/1663057779667.png",
-        "TOTAL_MKT_CAP_USD": 7024796070.366902
-    },
-    {
-        "SYMBOL": "LINK",
-        "URI": "chainlink",
-        "NAME": "Chainlink",
-        "LOGO": "/27/1774277103370.png",
-        "TOTAL_MKT_CAP_USD": 9652161522.86134
-    },
-    {
-        "SYMBOL": "CC",
-        "URI": "canton-coin",
-        "NAME": "Canton Coin",
-        "LOGO": "/20994/1774276952490.png",
-        "TOTAL_MKT_CAP_USD": 5807241881.433685
-    },
-    {
-        "SYMBOL": "M",
-        "URI": "memecore",
-        "NAME": "MemeCore",
-        "LOGO": "/20424/1754493928724.png",
-        "TOTAL_MKT_CAP_USD": 17039807290.428768
-    },
-    {
-        "SYMBOL": "TON",
-        "URI": "toncoin",
-        "NAME": "Toncoin",
-        "LOGO": "/813/1773832492204.png",
-        "TOTAL_MKT_CAP_USD": 9990631394.613346
-    },
-    {
-        "SYMBOL": "XLM",
-        "URI": "stellar",
-        "NAME": "Stellar Lumen",
-        "LOGO": "/52/1663084942606.png",
-        "TOTAL_MKT_CAP_USD": 7531275516.27623
-    },
-    {
-        "SYMBOL": "USD1",
-        "URI": "world-liberty-financial-usd",
-        "NAME": "World Liberty Financial USD",
-        "LOGO": "/19371/1762851889955.png",
-        "TOTAL_MKT_CAP_USD": 4519980641.901113
-    },
-    {
-        "SYMBOL": "DAI",
-        "URI": "dai",
-        "NAME": "Dai",
-        "LOGO": "/72/1727941804095.png",
-        "TOTAL_MKT_CAP_USD": 4377185544.165531
-    },
-    {
-        "SYMBOL": "USDE",
-        "URI": "ethena",
-        "NAME": "Ethena USDe",
-        "LOGO": "/13710/1762854956470.png",
-        "TOTAL_MKT_CAP_USD": 4332386796.022253
-    },
-    {
-        "SYMBOL": "LTC",
-        "URI": "litecoin",
-        "NAME": "Litecoin",
-        "LOGO": "/18/1774263671454.png",
-        "TOTAL_MKT_CAP_USD": 4297868029.640138
-    },
-    {
-        "SYMBOL": "SUI",
-        "URI": "sui",
-        "NAME": "Sui",
-        "LOGO": "/2797/1774347991247.png",
-        "TOTAL_MKT_CAP_USD": 10643814437.4365
-    },
-    {
-        "SYMBOL": "AVAX",
-        "URI": "avax",
-        "NAME": "Avalanche",
-        "LOGO": "/21/1774276546214.png",
-        "TOTAL_MKT_CAP_USD": 4281750589.6604257
-    },
-    {
-        "SYMBOL": "HBAR",
-        "URI": "hedera",
-        "NAME": "Hedera Hashgraph",
-        "LOGO": "/43/1755195876209.png",
-        "TOTAL_MKT_CAP_USD": 4533414846.47393
-    },
-    {
-        "SYMBOL": "RAIN",
-        "URI": "rain",
-        "NAME": "Rain",
-        "LOGO": "/21201/1764237434310.png",
-        "TOTAL_MKT_CAP_USD": 8412263567.174184
-    },
-    {
-        "SYMBOL": "SHIB",
-        "URI": "shiba-inu",
-        "NAME": "Shiba Inu",
-        "LOGO": "/19/1773834029506.png",
-        "TOTAL_MKT_CAP_USD": 3473645259.3995495
-    },
-    {
-        "SYMBOL": "PYUSD",
-        "URI": "paypal-usd",
-        "NAME": "PayPal USD",
-        "LOGO": "/3232/1773835637674.png",
-        "TOTAL_MKT_CAP_USD": 3458052971.1344976
-    },
-    {
-        "SYMBOL": "CRO",
-        "URI": "cronos",
-        "NAME": "Cronos",
-        "LOGO": "/116/1663860602048.png",
-        "TOTAL_MKT_CAP_USD": 6932385282.442016
-    },
-    {
-        "SYMBOL": "TAO",
-        "URI": "tao",
-        "NAME": "Bittensor",
-        "LOGO": "/10359/1727882495309.png",
-        "TOTAL_MKT_CAP_USD": 3007979923.1263566
-    },
-    {
-        "SYMBOL": "XAUT",
-        "URI": "xaut",
-        "NAME": "Tether Gold",
-        "LOGO": "/409/1669921193400.png",
-        "TOTAL_MKT_CAP_USD": 3203905028.0270987
-    },
-    {
-        "SYMBOL": "UNI",
-        "URI": "uniswap",
-        "NAME": "Uniswap Protocol Token",
-        "LOGO": "/40/1774348480758.png",
-        "TOTAL_MKT_CAP_USD": 3467771882.06245
-    },
-    {
-        "SYMBOL": "PAXG",
-        "URI": "pax-gold",
-        "NAME": "PAX Gold",
-        "LOGO": "/156/1774267544285.png",
-        "TOTAL_MKT_CAP_USD": 2129517449.0338805
-    },
-    {
-        "SYMBOL": "MANTLE",
-        "URI": "mantle",
-        "NAME": "Mantle",
-        "LOGO": "/3212/1698055507005.png",
-        "TOTAL_MKT_CAP_USD": 4000154380.0236826
-    },
-    {
-        "SYMBOL": "WLFI",
-        "URI": "world-liberty-financial",
-        "NAME": "World Liberty Financial",
-        "LOGO": "/20643/1756726255766.png",
-        "TOTAL_MKT_CAP_USD": 6145962698.6743
-    },
-    {
-        "SYMBOL": "NEAR",
-        "URI": "near-protocol",
-        "NAME": "Near",
-        "LOGO": "/23/1774266957319.png",
-        "TOTAL_MKT_CAP_USD": 1943912169.5379894
-    },
-    {
-        "SYMBOL": "OKB",
-        "URI": "okb",
-        "NAME": "OKB",
-        "LOGO": "/86/1663682130341.png",
-        "TOTAL_MKT_CAP_USD": 1753924806.0451972
-    },
-    {
-        "SYMBOL": "ASTER",
-        "URI": "aster",
-        "NAME": "Aster",
-        "LOGO": "/20733/1758542379386.png",
-        "TOTAL_MKT_CAP_USD": 5243634870.982036
-    },
-    {
-        "SYMBOL": "USDF",
-        "URI": "falcon-usd",
-        "NAME": "Falcon USD",
-        "LOGO": "/19934/1750082963587.png",
-        "TOTAL_MKT_CAP_USD": 1730974457.2680166
-    },
-    {
-        "SYMBOL": "PI",
-        "URI": "pi-network",
-        "NAME": "Pi Network",
-        "LOGO": "/18836/1740656517256.png",
-        "TOTAL_MKT_CAP_USD": 2601563849.186178
-    },
-    {
-        "SYMBOL": "ONDO",
-        "URI": "ondo",
-        "NAME": "Ondo",
-        "LOGO": "/10607/1706027622974.png",
-        "TOTAL_MKT_CAP_USD": 3464111630.17944
-    },
-    {
-        "SYMBOL": "SKY",
-        "URI": "sky",
-        "NAME": "SKY Governance Token",
-        "LOGO": "/16978/1726760177651.png",
-        "TOTAL_MKT_CAP_USD": 1642712867.4717877
-    },
-    {
-        "SYMBOL": "PEPE",
-        "URI": "pepe",
-        "NAME": "Pepe (pepe.vip)",
-        "LOGO": "/3010/1773929471550.png",
-        "TOTAL_MKT_CAP_USD": 1558662219.972382
-    },
-    {
-        "SYMBOL": "RLUSD",
-        "URI": "rlusd",
-        "NAME": "Ripple USD",
-        "LOGO": "/17133/1773833521210.png",
-        "TOTAL_MKT_CAP_USD": 1545471297.7207394
-    },
-    {
-        "SYMBOL": "BGB",
-        "URI": "bitget-token",
-        "NAME": "Bitget Token",
-        "LOGO": "/828/1694161199775.png",
-        "TOTAL_MKT_CAP_USD": 1838890221.167482
-    },
-    {
-        "SYMBOL": "ICP",
-        "URI": "internet-computer",
-        "NAME": "Internet Computer",
-        "LOGO": "/81/1774008505151.png",
-        "TOTAL_MKT_CAP_USD": 1400886222.9122708
-    },
-    {
-        "SYMBOL": "ETC",
-        "URI": "ethereum-classic",
-        "NAME": "Ethereum Classic",
-        "LOGO": "/314/1773745153882.png",
-        "TOTAL_MKT_CAP_USD": 1382938242.7780542
-    },
-    {
-        "SYMBOL": "AAVE",
-        "URI": "aave",
-        "NAME": "Aave",
-        "LOGO": "/9/1756821821335.png",
-        "TOTAL_MKT_CAP_USD": 1415469305.5307183
-    },
-    {
-        "SYMBOL": "HTX",
-        "URI": "htx",
-        "NAME": "HTX",
-        "LOGO": "/11020/1706803249264.png",
-        "TOTAL_MKT_CAP_USD": 1782338232.5653164
-    },
-    {
-        "SYMBOL": "QNT",
-        "URI": "quant",
-        "NAME": "Quant",
-        "LOGO": "/82/1663324566521.png",
-        "TOTAL_MKT_CAP_USD": 1225536313.751189
-    },
-    {
-        "SYMBOL": "RYO",
-        "URI": "ryo",
-        "NAME": "RYO Coin",
-        "LOGO": "/16221/1722600413270.png",
-        "TOTAL_MKT_CAP_USD": 8050993914.125581
-    },
-    {
-        "SYMBOL": "USDD",
-        "URI": "usdd",
-        "NAME": "USDD",
-        "LOGO": "/814/1727256406886.png",
-        "TOTAL_MKT_CAP_USD": 1147047934.7777328
-    },
-    {
-        "SYMBOL": "DEXE",
-        "URI": "dexe",
-        "NAME": "DeXe",
-        "LOGO": "/857/1738582909630.png",
-        "TOTAL_MKT_CAP_USD": 1247729818.1372213
-    },
-    {
-        "SYMBOL": "KCS",
-        "URI": "kucoin-token",
-        "NAME": "KuCoin Token",
-        "LOGO": "/325/1669817981282.png",
-        "TOTAL_MKT_CAP_USD": 1138603610.2807684
-    },
-    {
-        "SYMBOL": "U",
-        "URI": "united-stables",
-        "NAME": "United Stables",
-        "LOGO": "/21390/1767868550928.png",
-        "TOTAL_MKT_CAP_USD": 1002579957.6280732
-    },
-    {
-        "SYMBOL": "ATOM",
-        "URI": "cosmos",
-        "NAME": "Cosmos",
-        "LOGO": "/15/1724836803227.png",
-        "TOTAL_MKT_CAP_USD": 985325558.5273322
-    },
-    {
-        "SYMBOL": "ALGO",
-        "URI": "algorand",
-        "NAME": "Algorand",
-        "LOGO": "/75/1729840142098.png",
-        "TOTAL_MKT_CAP_USD": 1096724354.81959
-    },
-    {
-        "SYMBOL": "ENA",
-        "URI": "ena",
-        "NAME": "Ethena",
-        "LOGO": "/13420/1712158213309.png",
-        "TOTAL_MKT_CAP_USD": 1613444227.37019
-    },
-    {
-        "SYMBOL": "KAS",
-        "URI": "kaspa",
-        "NAME": "Kaspa",
-        "LOGO": "/860/1727941549204.png",
-        "TOTAL_MKT_CAP_USD": 940347487.084716
-    },
-    {
-        "SYMBOL": "POL",
-        "URI": "pol",
-        "NAME": "Polygon Ecosystem Token",
-        "LOGO": "/10343/1774347532265.png",
-        "TOTAL_MKT_CAP_USD": 967358434.6795367
-    },
-    {
-        "SYMBOL": "DOT",
-        "URI": "polkadot",
-        "NAME": "Polkadot",
-        "LOGO": "/20/1777541849189.png",
-        "TOTAL_MKT_CAP_USD": 2109847617.4219432
-    },
-    {
-        "SYMBOL": "MORPHO",
-        "URI": "morpho",
-        "NAME": "Morpho",
-        "LOGO": "/17952/1732198784372.png",
-        "TOTAL_MKT_CAP_USD": 1785601316.3744643
-    },
-    {
-        "SYMBOL": "RENDER",
-        "URI": "render-token",
-        "NAME": "Render Network",
-        "LOGO": "/14091/1720796905345.png",
-        "TOTAL_MKT_CAP_USD": 869691028.8456914
-    },
-    {
-        "SYMBOL": "WLD",
-        "URI": "worldcoin",
-        "NAME": "Worldcoin",
-        "LOGO": "/3197/1690275596683.png",
-        "TOTAL_MKT_CAP_USD": 2413021867.8852
-    },
-    {
-        "SYMBOL": "GT",
-        "URI": "gatetoken",
-        "NAME": "GateToken",
-        "LOGO": "/338/1735554443957.png",
-        "TOTAL_MKT_CAP_USD": 2140355441.9362738
-    },
-    {
-        "SYMBOL": "FLR",
-        "URI": "flare",
-        "NAME": "Flare",
-        "LOGO": "/1627/1674120678362.png",
-        "TOTAL_MKT_CAP_USD": 975674421.0923922
-    },
-    {
-        "SYMBOL": "JST",
-        "URI": "jst",
-        "NAME": "JUST",
-        "LOGO": "/68/1663239851319.png",
-        "TOTAL_MKT_CAP_USD": 899504941.3558143
-    },
-    {
-        "SYMBOL": "APT",
-        "URI": "aptos",
-        "NAME": "Aptos",
-        "LOGO": "/299/1727941309155.png",
-        "TOTAL_MKT_CAP_USD": 1133098012.0511954
-    },
-    {
-        "SYMBOL": "FIL",
-        "URI": "filecoin",
-        "NAME": "FileCoin",
-        "LOGO": "/32/1662649781319.png",
-        "TOTAL_MKT_CAP_USD": 751255461.6044271
-    },
-    {
-        "SYMBOL": "ARB",
-        "URI": "arbitrum",
-        "NAME": "Arbitrum",
-        "LOGO": "/808/1671187613828.png",
-        "TOTAL_MKT_CAP_USD": 1204248110.5332
-    },
-    {
-        "SYMBOL": "XDC",
-        "URI": "xdc-network",
-        "NAME": "XDC Network",
-        "LOGO": "/327/1709890540840.png",
-        "TOTAL_MKT_CAP_USD": 1253985227.5978332
-    },
-    {
-        "SYMBOL": "JUP",
-        "URI": "jupiter",
-        "NAME": "Jupiter",
-        "LOGO": "/11362/1707478465441.png",
-        "TOTAL_MKT_CAP_USD": 1374899868.744877
-    },
-    {
-        "SYMBOL": "H",
-        "URI": "humanity",
-        "NAME": "Humanity",
-        "LOGO": "/20039/1751014717741.png",
-        "TOTAL_MKT_CAP_USD": 2438113226.98127
-    },
-    {
-        "SYMBOL": "VVV",
-        "URI": "vvv",
-        "NAME": "Venice Token",
-        "LOGO": "/18447/1756118801302.png",
-        "TOTAL_MKT_CAP_USD": 1062828567.817498
-    },
-    {
-        "SYMBOL": "BDX",
-        "URI": "beldex",
-        "NAME": "Beldex",
-        "LOGO": "/343/1669899247890.png",
-        "TOTAL_MKT_CAP_USD": 783516350.9423862
-    },
-    {
-        "SYMBOL": "PENGU",
-        "URI": "pudgy-penguins",
-        "NAME": "Pudgy Penguins",
-        "LOGO": "/18207/1753213881153.png",
-        "TOTAL_MKT_CAP_USD": 650644922.8457541
-    },
-    {
-        "SYMBOL": "VET",
-        "URI": "vechain",
-        "NAME": "VeChain",
-        "LOGO": "/83/1774948958880.png",
-        "TOTAL_MKT_CAP_USD": 581166789.6177665
-    },
-    {
-        "SYMBOL": "NIGHT",
-        "URI": "midnight",
-        "NAME": "Midnight",
-        "LOGO": "/21238/1765273733192.png",
-        "TOTAL_MKT_CAP_USD": 769583167.9920287
-    },
-    {
-        "SYMBOL": "BONK",
-        "URI": "bonk",
-        "NAME": "BONK",
-        "LOGO": "/1255/1774276885860.png",
-        "TOTAL_MKT_CAP_USD": 552972594.4896969
-    },
-    {
-        "SYMBOL": "FET",
-        "URI": "fetchai",
-        "NAME": "Artificial Superintelligence Alliance",
-        "LOGO": "/336/1722507167337.png",
-        "TOTAL_MKT_CAP_USD": 526677127.9678505
-    },
-    {
-        "SYMBOL": "TRUMP",
-        "URI": "trump",
-        "NAME": "OFFICIAL TRUMP",
-        "LOGO": "/18380/1737365562305.png",
-        "TOTAL_MKT_CAP_USD": 2188532926.958699
-    },
-    {
-        "SYMBOL": "DASH",
-        "URI": "dash",
-        "NAME": "Dash",
-        "LOGO": "/78/1663319672347.png",
-        "TOTAL_MKT_CAP_USD": 515363166.9547699
-    },
-    {
-        "SYMBOL": "TUSD",
-        "URI": "trueusd",
-        "NAME": "True USD",
-        "LOGO": "/60/1762852015162.png",
-        "TOTAL_MKT_CAP_USD": 494186959.15009
-    },
-    {
-        "SYMBOL": "ZRO",
-        "URI": "zro",
-        "NAME": "LayerZero",
-        "LOGO": "/15372/1718898546976.png",
-        "TOTAL_MKT_CAP_USD": 1285999884.1829066
-    },
-    {
-        "SYMBOL": "KITE",
-        "URI": "kite",
-        "NAME": "Kite",
-        "LOGO": "/21024/1762256443496.png",
-        "TOTAL_MKT_CAP_USD": 2144577646.37312
-    },
-    {
-        "SYMBOL": "VIRTUAL",
-        "URI": "virtual",
-        "NAME": "Virtual Protocol",
-        "LOGO": "/12669/1709828485849.png",
-        "TOTAL_MKT_CAP_USD": 728009501.434253
-    },
-    {
-        "SYMBOL": "CAKE",
-        "URI": "pancakeswap",
-        "NAME": "PancakeSwap",
-        "LOGO": "/88/1699438702771.png",
-        "TOTAL_MKT_CAP_USD": 494673022.52103937
-    },
-    {
-        "SYMBOL": "NEXO",
-        "URI": "nexo",
-        "NAME": "NEXO",
-        "LOGO": "/328/1755617228689.png",
-        "TOTAL_MKT_CAP_USD": 850438036.468962
-    },
-    {
-        "SYMBOL": "CHZ",
-        "URI": "chiliz",
-        "NAME": "Chiliz",
-        "LOGO": "/24/1774277283199.png",
-        "TOTAL_MKT_CAP_USD": 459290995.9436351
-    },
-    {
-        "SYMBOL": "INJ",
-        "URI": "injective-protocol",
-        "NAME": "Injective",
-        "LOGO": "/84/1754493897250.png",
-        "TOTAL_MKT_CAP_USD": 455740127.375579
-    },
-    {
-        "SYMBOL": "EURC",
-        "URI": "eurc",
-        "NAME": "EURC",
-        "LOGO": "/956/1770198925588.png",
-        "TOTAL_MKT_CAP_USD": 452954921.3804452
-    },
-    {
-        "SYMBOL": "LUNC",
-        "URI": "luna-classic",
-        "NAME": "Terra Classic",
-        "LOGO": "/11/1662386856402.png",
-        "TOTAL_MKT_CAP_USD": 518072696.72876775
-    },
-    {
-        "SYMBOL": "SEI",
-        "URI": "sei",
-        "NAME": "Sei",
-        "LOGO": "/3013/1704711907048.png",
-        "TOTAL_MKT_CAP_USD": 573304724.1303277
-    },
-    {
-        "SYMBOL": "LIT",
-        "URI": "lighter",
-        "NAME": "Lighter",
-        "LOGO": "/21393/1767887475166.png",
-        "TOTAL_MKT_CAP_USD": 870512107.795521
-    },
-    {
-        "SYMBOL": "EDGE",
-        "URI": "edgex",
-        "NAME": "edgeX",
-        "LOGO": "/21832/1775741434568.png",
-        "TOTAL_MKT_CAP_USD": 1255126265.79725
-    },
-    {
         "SYMBOL": "STX",
         "URI": "stacks",
         "NAME": "Stacks",
         "LOGO": "/367/1754494621195.png",
-        "TOTAL_MKT_CAP_USD": 436236457.9067096
+        "TOTAL_MKT_CAP_USD": 434477454.22337466
     },
     {
         "SYMBOL": "AERO",
@@ -732,7 +32,7 @@
         "URI": "tezos",
         "NAME": "Tezos",
         "LOGO": "/136/1664198491691.png",
-        "TOTAL_MKT_CAP_USD": 401873880.9991747
+        "TOTAL_MKT_CAP_USD": 401874590.9601824
     },
     {
         "SYMBOL": "FDUSD",
@@ -746,7 +46,7 @@
         "URI": "celestia",
         "NAME": "Celestia",
         "LOGO": "/3285/1729787905033.png",
-        "TOTAL_MKT_CAP_USD": 482651209.0333557
+        "TOTAL_MKT_CAP_USD": 482652958.6841816
     },
     {
         "SYMBOL": "SUN",
@@ -760,7 +60,7 @@
         "URI": "curve-dao-token",
         "NAME": "Curve DAO Token",
         "LOGO": "/54/1773742401914.png",
-        "TOTAL_MKT_CAP_USD": 585405152.0024959
+        "TOTAL_MKT_CAP_USD": 585410020.5318152
     },
     {
         "SYMBOL": "IMX",
@@ -830,7 +130,7 @@
         "URI": "bitcoin-sv",
         "NAME": "Bitcoin SV",
         "LOGO": "/127/1681828845314.png",
-        "TOTAL_MKT_CAP_USD": 312880055.32704777
+        "TOTAL_MKT_CAP_USD": 312880201.7743191
     },
     {
         "SYMBOL": "COCO",
@@ -844,7 +144,7 @@
         "URI": "pump-fun",
         "NAME": "Pump.fun",
         "LOGO": "/20241/1752570235900.png",
-        "TOTAL_MKT_CAP_USD": 1493516271.5994532
+        "TOTAL_MKT_CAP_USD": 1493488661.6154053
     },
     {
         "SYMBOL": "FLOKI",
@@ -907,14 +207,14 @@
         "URI": "decred",
         "NAME": "Decred",
         "LOGO": "/371/1674557382763.png",
-        "TOTAL_MKT_CAP_USD": 294381966.18249565
+        "TOTAL_MKT_CAP_USD": 294382890.21240866
     },
     {
         "SYMBOL": "KAIA",
         "URI": "kaia",
         "NAME": "Kaia",
         "LOGO": "/123/1730203579476.png",
-        "TOTAL_MKT_CAP_USD": 291376249.0848446
+        "TOTAL_MKT_CAP_USD": 291377701.926445
     },
     {
         "SYMBOL": "OP",
@@ -1026,7 +326,7 @@
         "URI": "akash-network",
         "NAME": "Akash Network",
         "LOGO": "/545/1692784428593.png",
-        "TOTAL_MKT_CAP_USD": 208270966.4831263
+        "TOTAL_MKT_CAP_USD": 208271850.9231505
     },
     {
         "SYMBOL": "KAU",
@@ -1068,7 +368,7 @@
         "URI": "fartcoin",
         "NAME": "Fartcoin",
         "LOGO": "/17577/1729765432488.png",
-        "TOTAL_MKT_CAP_USD": 195476644.22170585
+        "TOTAL_MKT_CAP_USD": 195476643.35159537
     },
     {
         "SYMBOL": "XCN",
@@ -1096,7 +396,7 @@
         "URI": "ip",
         "NAME": "Story",
         "LOGO": "/18855/1740742113529.png",
-        "TOTAL_MKT_CAP_USD": 513161912.191195
+        "TOTAL_MKT_CAP_USD": 513162974.38540447
     },
     {
         "SYMBOL": "MANA",
@@ -1124,7 +424,7 @@
         "URI": "zano",
         "NAME": "Zano",
         "LOGO": "/587/1720516201272.png",
-        "TOTAL_MKT_CAP_USD": 168450705.7002422
+        "TOTAL_MKT_CAP_USD": 168451248.73011371
     },
     {
         "SYMBOL": "BEAT",
@@ -1159,7 +459,7 @@
         "URI": "convex-finance",
         "NAME": "Convex Finance",
         "LOGO": "/239/1664894513604.png",
-        "TOTAL_MKT_CAP_USD": 173651651.29704046
+        "TOTAL_MKT_CAP_USD": 173651655.14163202
     },
     {
         "SYMBOL": "CRCLON",
@@ -1173,7 +473,7 @@
         "URI": "hnt",
         "NAME": "Helium",
         "LOGO": "/31/1727085967802.png",
-        "TOTAL_MKT_CAP_USD": 154191219.3319216
+        "TOTAL_MKT_CAP_USD": 154191218.31681314
     },
     {
         "SYMBOL": "XT",
@@ -1187,14 +487,14 @@
         "URI": "ecash",
         "NAME": "eCash",
         "LOGO": "/329/1669849430017.png",
-        "TOTAL_MKT_CAP_USD": 150554180.42718777
+        "TOTAL_MKT_CAP_USD": 150554321.3651106
     },
     {
         "SYMBOL": "RAVE",
         "URI": "ravedao",
         "NAME": "RaveDAO",
         "LOGO": "/21285/1765814840260.png",
-        "TOTAL_MKT_CAP_USD": 602670843.7851893
+        "TOTAL_MKT_CAP_USD": 602662978.2444721
     },
     {
         "SYMBOL": "BAT",
@@ -1208,7 +508,7 @@
         "URI": "gala",
         "NAME": "Gala",
         "LOGO": "/182/1773750351396.png",
-        "TOTAL_MKT_CAP_USD": 157958074.538405
+        "TOTAL_MKT_CAP_USD": 157973956.76093495
     },
     {
         "SYMBOL": "SFP",
@@ -1299,7 +599,7 @@
         "URI": "s",
         "NAME": "Sonic",
         "LOGO": "/17157/1727687183179.png",
-        "TOTAL_MKT_CAP_USD": 213822920.26417634
+        "TOTAL_MKT_CAP_USD": 213822991.595685
     },
     {
         "SYMBOL": "CHEEMS",
@@ -1446,7 +746,7 @@
         "URI": "irys",
         "NAME": "Irys",
         "LOGO": "/21197/1764171691467.png",
-        "TOTAL_MKT_CAP_USD": 110868877.4741378
+        "TOTAL_MKT_CAP_USD": 110864827.19169018
     },
     {
         "SYMBOL": "AWE",
@@ -1481,7 +781,7 @@
         "URI": "troll",
         "NAME": "TROLL",
         "LOGO": "/19836/1749115216927.png",
-        "TOTAL_MKT_CAP_USD": 107616800.03720461
+        "TOTAL_MKT_CAP_USD": 107616800.03676893
     },
     {
         "SYMBOL": "LPT",
@@ -1523,14 +823,21 @@
         "URI": "qtum",
         "NAME": "QTUM",
         "LOGO": "/140/1664201697780.png",
-        "TOTAL_MKT_CAP_USD": 97157960.7202449
+        "TOTAL_MKT_CAP_USD": 97157984.08748746
+    },
+    {
+        "SYMBOL": "COW",
+        "URI": "cow",
+        "NAME": "CoW Protocol",
+        "LOGO": "/2184/1736417229704.png",
+        "TOTAL_MKT_CAP_USD": 174375439.772508
     },
     {
         "SYMBOL": "BERA",
         "URI": "bera",
         "NAME": "Berachain",
         "LOGO": "/18549/1738848872463.png",
-        "TOTAL_MKT_CAP_USD": 199564579.4969258
+        "TOTAL_MKT_CAP_USD": 199565745.18968618
     },
     {
         "SYMBOL": "PLAY",
@@ -1547,13 +854,6 @@
         "TOTAL_MKT_CAP_USD": 205140391.90669265
     },
     {
-        "SYMBOL": "COW",
-        "URI": "cow",
-        "NAME": "CoW Protocol",
-        "LOGO": "/2184/1736417229704.png",
-        "TOTAL_MKT_CAP_USD": 170326992.183411
-    },
-    {
         "SYMBOL": "EURCV",
         "URI": "eurcv",
         "NAME": "EUR CoinVertible",
@@ -1565,7 +865,7 @@
         "URI": "kusama",
         "NAME": "Kusama",
         "LOGO": "/85/1721115338571.png",
-        "TOTAL_MKT_CAP_USD": 92884077.61389811
+        "TOTAL_MKT_CAP_USD": 92888518.34157707
     },
     {
         "SYMBOL": "BEAM",
@@ -1600,7 +900,7 @@
         "URI": "ravencoin",
         "NAME": "Ravencoin",
         "LOGO": "/22/1662474469823.png",
-        "TOTAL_MKT_CAP_USD": 90708720.6842497
+        "TOTAL_MKT_CAP_USD": 90709181.32596178
     },
     {
         "SYMBOL": "ORCA",
@@ -1628,7 +928,7 @@
         "URI": "aioz-network",
         "NAME": "AIOZ Network",
         "LOGO": "/981/1736781890727.png",
-        "TOTAL_MKT_CAP_USD": 87229296.83212383
+        "TOTAL_MKT_CAP_USD": 87230103.07932124
     },
     {
         "SYMBOL": "LINEA",
@@ -1649,7 +949,7 @@
         "URI": "enjin-coin",
         "NAME": "Enjin Coin",
         "LOGO": "/93/1732032294338.png",
-        "TOTAL_MKT_CAP_USD": 86527576.91743746
+        "TOTAL_MKT_CAP_USD": 86539175.7480318
     },
     {
         "SYMBOL": "SHXV1",
@@ -1691,21 +991,21 @@
         "URI": "seeke",
         "NAME": "Seeker",
         "LOGO": "/21512/1769074656652.png",
-        "TOTAL_MKT_CAP_USD": 156670718.52280688
+        "TOTAL_MKT_CAP_USD": 156670717.92953488
     },
     {
         "SYMBOL": "XPR",
         "URI": "xpr",
         "NAME": "Proton",
         "LOGO": "/234/1664887586454.png",
-        "TOTAL_MKT_CAP_USD": 89735153.52485621
+        "TOTAL_MKT_CAP_USD": 89739536.17253065
     },
     {
         "SYMBOL": "TFUEL",
         "URI": "tfuel",
         "NAME": "Theta Fuel",
         "LOGO": "/119/1663927000736.png",
-        "TOTAL_MKT_CAP_USD": 81277518.49767466
+        "TOTAL_MKT_CAP_USD": 81277995.03839809
     },
     {
         "SYMBOL": "BIO",
@@ -1796,7 +1096,7 @@
         "URI": "astar",
         "NAME": "Astar",
         "LOGO": "/154/1664275064816.png",
-        "TOTAL_MKT_CAP_USD": 74948886.38333759
+        "TOTAL_MKT_CAP_USD": 74948915.25347619
     },
     {
         "SYMBOL": "TOSHI",
@@ -1810,7 +1110,7 @@
         "URI": "everything",
         "NAME": "Everything",
         "LOGO": "/21852/1776094646684.png",
-        "TOTAL_MKT_CAP_USD": 74544702.00668882
+        "TOTAL_MKT_CAP_USD": 74544350.53484432
     },
     {
         "SYMBOL": "DUSK",
@@ -1831,14 +1131,14 @@
         "URI": "dag",
         "NAME": "Constellation",
         "LOGO": "/396/1669917793887.png",
-        "TOTAL_MKT_CAP_USD": 73406100.21965429
+        "TOTAL_MKT_CAP_USD": 73406912.37643383
     },
     {
         "SYMBOL": "MWC",
         "URI": "mwc",
         "NAME": "MimbleWimbleCoin",
         "LOGO": "/1100/1672324907290.png",
-        "TOTAL_MKT_CAP_USD": 73269568.31835459
+        "TOTAL_MKT_CAP_USD": 73269599.27082227
     },
     {
         "SYMBOL": "ZETA",
@@ -1852,14 +1152,14 @@
         "URI": "axelar",
         "NAME": "Axelar",
         "LOGO": "/893/1674637116803.png",
-        "TOTAL_MKT_CAP_USD": 77196550.80113143
+        "TOTAL_MKT_CAP_USD": 77196807.67357944
     },
     {
         "SYMBOL": "CKB",
         "URI": "nervos-network",
         "NAME": "Nervos Network",
         "LOGO": "/61/1663168794368.png",
-        "TOTAL_MKT_CAP_USD": 73989659.7388612
+        "TOTAL_MKT_CAP_USD": 73989969.41954131
     },
     {
         "SYMBOL": "RONIN",
@@ -1881,13 +1181,6 @@
         "NAME": "Comedian",
         "LOGO": "/18167/1733398916097.png",
         "TOTAL_MKT_CAP_USD": 72085915.83514039
-    },
-    {
-        "SYMBOL": "ZORA",
-        "URI": "zora",
-        "NAME": "Zora",
-        "LOGO": "/19595/1747322805365.png",
-        "TOTAL_MKT_CAP_USD": 117176985.100278
     },
     {
         "SYMBOL": "GMX",
@@ -1929,7 +1222,7 @@
         "URI": "fogo",
         "NAME": "Fogo",
         "LOGO": "/21421/1768212855945.png",
-        "TOTAL_MKT_CAP_USD": 176153752.40159735
+        "TOTAL_MKT_CAP_USD": 176153752.30590767
     },
     {
         "SYMBOL": "BLUR",
@@ -1943,7 +1236,7 @@
         "URI": "digibyte",
         "NAME": "DigiByte",
         "LOGO": "/278/1666084039161.png",
-        "TOTAL_MKT_CAP_USD": 66605968.90239025
+        "TOTAL_MKT_CAP_USD": 66606183.307222195
     },
     {
         "SYMBOL": "MOVE",
@@ -2013,7 +1306,7 @@
         "URI": "cet",
         "NAME": "CoinEx Token",
         "LOGO": "/382/1674654560659.png",
-        "TOTAL_MKT_CAP_USD": 64018961.00167011
+        "TOTAL_MKT_CAP_USD": 64018989.00287429
     },
     {
         "SYMBOL": "KUB",
@@ -2056,6 +1349,13 @@
         "NAME": "Peanut the Squirrel",
         "LOGO": "/17639/1730710738553.png",
         "TOTAL_MKT_CAP_USD": 60461377.209463336
+    },
+    {
+        "SYMBOL": "ZORA",
+        "URI": "zora",
+        "NAME": "Zora",
+        "LOGO": "/19595/1747322805365.png",
+        "TOTAL_MKT_CAP_USD": 117176985.100278
     },
     {
         "SYMBOL": "FLOW",
@@ -2209,14 +1509,14 @@
         "URI": "vtho",
         "NAME": "VeChainThor",
         "LOGO": "/501/1774949108579.png",
-        "TOTAL_MKT_CAP_USD": 54330259.58296622
+        "TOTAL_MKT_CAP_USD": 54330752.294828385
     },
     {
         "SYMBOL": "PEAQ",
         "URI": "peaq",
         "NAME": "peaq",
         "LOGO": "/15860/1721376756397.png",
-        "TOTAL_MKT_CAP_USD": 112513231.6514521
+        "TOTAL_MKT_CAP_USD": 112513677.97687928
     },
     {
         "SYMBOL": "XUSD",
@@ -2300,7 +1600,7 @@
         "URI": "waves",
         "NAME": "Waves",
         "LOGO": "/41/1662996103023.png",
-        "TOTAL_MKT_CAP_USD": 51393333.88546665
+        "TOTAL_MKT_CAP_USD": 51394763.863615654
     },
     {
         "SYMBOL": "MEW",
@@ -2335,7 +1635,7 @@
         "URI": "mantra",
         "NAME": "MANTRA",
         "LOGO": "/21730/1772624399587.png",
-        "TOTAL_MKT_CAP_USD": 71005542.35527793
+        "TOTAL_MKT_CAP_USD": 71006176.34596367
     },
     {
         "SYMBOL": "STORJ",
@@ -2363,7 +1663,7 @@
         "URI": "casper",
         "NAME": "Casper Network",
         "LOGO": "/157/1739185732610.png",
-        "TOTAL_MKT_CAP_USD": 59272342.04295438
+        "TOTAL_MKT_CAP_USD": 59272341.69227516
     },
     {
         "SYMBOL": "SNT",
@@ -2552,7 +1852,7 @@
         "URI": "uma-protocol",
         "NAME": "UMA",
         "LOGO": "/129/1724686337103.png",
-        "TOTAL_MKT_CAP_USD": 59857552.86018221
+        "TOTAL_MKT_CAP_USD": 59857576.54655235
     },
     {
         "SYMBOL": "IOTX",
@@ -2685,7 +1985,7 @@
         "URI": "venom",
         "NAME": "Venom",
         "LOGO": "/13291/1711984679282.png",
-        "TOTAL_MKT_CAP_USD": 131810614.93905844
+        "TOTAL_MKT_CAP_USD": 131810809.33807006
     },
     {
         "SYMBOL": "ILV",
@@ -2713,7 +2013,7 @@
         "URI": "purr",
         "NAME": "Purr",
         "LOGO": "/16214/1722589667303.png",
-        "TOTAL_MKT_CAP_USD": 38307919.85436398
+        "TOTAL_MKT_CAP_USD": 38307909.111635745
     },
     {
         "SYMBOL": "APEX",
@@ -2748,7 +2048,7 @@
         "URI": "coti",
         "NAME": "COTI",
         "LOGO": "/125/1727359882609.png",
-        "TOTAL_MKT_CAP_USD": 37742163.58622956
+        "TOTAL_MKT_CAP_USD": 37746400.26486551
     },
     {
         "SYMBOL": "USDP",
@@ -2762,14 +2062,14 @@
         "URI": "band-protocol",
         "NAME": "Band",
         "LOGO": "/196/1754041841323.png",
-        "TOTAL_MKT_CAP_USD": 37595716.61776521
+        "TOTAL_MKT_CAP_USD": 37596090.34620406
     },
     {
         "SYMBOL": "EWT",
         "URI": "ewt",
         "NAME": "Energy Web Token",
         "LOGO": "/376/1721053764418.png",
-        "TOTAL_MKT_CAP_USD": 35698824.08726506
+        "TOTAL_MKT_CAP_USD": 35698824.46172076
     },
     {
         "SYMBOL": "PUNDIX",
@@ -2800,1413 +2100,6 @@
         "TOTAL_MKT_CAP_USD": 36937477.099360034
     },
     {
-        "SYMBOL": "ELON",
-        "URI": "elon",
-        "NAME": "Dogelon Mars",
-        "LOGO": "/838/1671442535272.png",
-        "TOTAL_MKT_CAP_USD": 39346814.8720281
-    },
-    {
-        "SYMBOL": "BNT",
-        "URI": "bancor",
-        "NAME": "Bancor Network Token",
-        "LOGO": "/177/1727275849771.png",
-        "TOTAL_MKT_CAP_USD": 36306161.61159835
-    },
-    {
-        "SYMBOL": "BP",
-        "URI": "backpack",
-        "NAME": "Backpack",
-        "LOGO": "/21835/1776081539085.png",
-        "TOTAL_MKT_CAP_USD": 145210866.80588305
-    },
-    {
-        "SYMBOL": "MANTA",
-        "URI": "manta",
-        "NAME": "Manta Network",
-        "LOGO": "/10494/1728901495174.png",
-        "TOTAL_MKT_CAP_USD": 78618009.76072395
-    },
-    {
-        "SYMBOL": "RATS",
-        "URI": "rats",
-        "NAME": "Rats",
-        "LOGO": "/10413/1702394863984.png",
-        "TOTAL_MKT_CAP_USD": 36043581.360288106
-    },
-    {
-        "SYMBOL": "VANA",
-        "URI": "vana",
-        "NAME": "Vana",
-        "LOGO": "/18254/1735205663841.png",
-        "TOTAL_MKT_CAP_USD": 177111993.45013922
-    },
-    {
-        "SYMBOL": "SWFTC",
-        "URI": "swftc",
-        "NAME": "SWFTCoin",
-        "LOGO": "/722/1670345571952.png",
-        "TOTAL_MKT_CAP_USD": 35895244.5741318
-    },
-    {
-        "SYMBOL": "UAI",
-        "URI": "unifai",
-        "NAME": "UnifAI",
-        "LOGO": "/21125/1763115106935.png",
-        "TOTAL_MKT_CAP_USD": 232450368.600146
-    },
-    {
-        "SYMBOL": "XCH",
-        "URI": "chia",
-        "NAME": "Chia",
-        "LOGO": "/230/1664874661951.png",
-        "TOTAL_MKT_CAP_USD": 80918959.62639138
-    },
-    {
-        "SYMBOL": "CYBER",
-        "URI": "cyber",
-        "NAME": "CyberConnect",
-        "LOGO": "/3254/1763479172986.png",
-        "TOTAL_MKT_CAP_USD": 50978843.2222699
-    },
-    {
-        "SYMBOL": "USTC",
-        "URI": "terrausd",
-        "NAME": "TerraClassicUSD",
-        "LOGO": "/147/1664270970029.png",
-        "TOTAL_MKT_CAP_USD": 38979431.29653173
-    },
-    {
-        "SYMBOL": "IOST",
-        "URI": "iost",
-        "NAME": "IOS token",
-        "LOGO": "/184/1664374751547.png",
-        "TOTAL_MKT_CAP_USD": 97469640.0109575
-    },
-    {
-        "SYMBOL": "AUCTION",
-        "URI": "auction",
-        "NAME": "Bounce",
-        "LOGO": "/237/1664893743920.png",
-        "TOTAL_MKT_CAP_USD": 36741951.45112236
-    },
-    {
-        "SYMBOL": "SOLV",
-        "URI": "solv",
-        "NAME": "Solv Protocol",
-        "LOGO": "/18371/1737112107415.png",
-        "TOTAL_MKT_CAP_USD": 35620358.92335396
-    },
-    {
-        "SYMBOL": "POWR",
-        "URI": "powerledger",
-        "NAME": "Power Ledger",
-        "LOGO": "/410/1694612650760.png",
-        "TOTAL_MKT_CAP_USD": 64428089.32038508
-    },
-    {
-        "SYMBOL": "SKL",
-        "URI": "skale",
-        "NAME": "SKALE Network",
-        "LOGO": "/150/1664272178249.png",
-        "TOTAL_MKT_CAP_USD": 39570432.02830287
-    },
-    {
-        "SYMBOL": "UCN",
-        "URI": "uchain",
-        "NAME": "UCHAIN",
-        "LOGO": "/20883/1760606290951.png",
-        "TOTAL_MKT_CAP_USD": 35132374.6435456
-    },
-    {
-        "SYMBOL": "PRO",
-        "URI": "pro",
-        "NAME": "Propy",
-        "LOGO": "/563/1675328244791.png",
-        "TOTAL_MKT_CAP_USD": 34931635.703112304
-    },
-    {
-        "SYMBOL": "GPS",
-        "URI": "goplus-security",
-        "NAME": "GoPlus Security",
-        "LOGO": "/18896/1741169237144.png",
-        "TOTAL_MKT_CAP_USD": 75226429.90705891
-    },
-    {
-        "SYMBOL": "MEME",
-        "URI": "meme",
-        "NAME": "Memecoin",
-        "LOGO": "/10358/1699522783730.png",
-        "TOTAL_MKT_CAP_USD": 37663903.198336385
-    },
-    {
-        "SYMBOL": "EDU",
-        "URI": "edu",
-        "NAME": "Open Campus",
-        "LOGO": "/3249/1774267333006.png",
-        "TOTAL_MKT_CAP_USD": 45345140.0569176
-    },
-    {
-        "SYMBOL": "OCEAN",
-        "URI": "ocean-protocol",
-        "NAME": "Ocean Protocol",
-        "LOGO": "/130/1736931197838.png",
-        "TOTAL_MKT_CAP_USD": 37781792.387233146
-    },
-    {
-        "SYMBOL": "ANIME",
-        "URI": "anime",
-        "NAME": "Animecoin",
-        "LOGO": "/18603/1739440044850.png",
-        "TOTAL_MKT_CAP_USD": 45088944.46162011
-    },
-    {
-        "SYMBOL": "SUSD",
-        "URI": "susd",
-        "NAME": "sUSD",
-        "LOGO": "/1034/1672211290343.png",
-        "TOTAL_MKT_CAP_USD": 33891199.192004785
-    },
-    {
-        "SYMBOL": "KNC",
-        "URI": "kyber-network",
-        "NAME": "Kyber Network Crystal v2",
-        "LOGO": "/56/1663157897406.png",
-        "TOTAL_MKT_CAP_USD": 33881164.33291233
-    },
-    {
-        "SYMBOL": "NOCK",
-        "URI": "nockchain",
-        "NAME": "Nockchain",
-        "LOGO": "/21507/1769009447485.png",
-        "TOTAL_MKT_CAP_USD": 73728464.55353901
-    },
-    {
-        "SYMBOL": "SPYX",
-        "URI": "sp5500-xstock",
-        "NAME": "SP500 xStock",
-        "LOGO": "/20095/1751384609251.png",
-        "TOTAL_MKT_CAP_USD": 148849906.67386436
-    },
-    {
-        "SYMBOL": "MATIC",
-        "URI": "polygon",
-        "NAME": "Polygon",
-        "LOGO": "/4/1722328316115.png",
-        "TOTAL_MKT_CAP_USD": 903502583.8474281
-    },
-    {
-        "SYMBOL": "CARV",
-        "URI": "carv",
-        "NAME": "CARV",
-        "LOGO": "/17337/1730284432288.png",
-        "TOTAL_MKT_CAP_USD": 56120853.59672313
-    },
-    {
-        "SYMBOL": "DEP",
-        "URI": "dep",
-        "NAME": "DEAPCOIN",
-        "LOGO": "/247/1665052086760.png",
-        "TOTAL_MKT_CAP_USD": 33045337.880483396
-    },
-    {
-        "SYMBOL": "WOO",
-        "URI": "woo-network",
-        "NAME": "WOO",
-        "LOGO": "/198/1724930402473.png",
-        "TOTAL_MKT_CAP_USD": 52212374.5772892
-    },
-    {
-        "SYMBOL": "CGPT",
-        "URI": "cgpt",
-        "NAME": "ChainGPT",
-        "LOGO": "/3021/1684335243704.png",
-        "TOTAL_MKT_CAP_USD": 35411817.79383681
-    },
-    {
-        "SYMBOL": "GIGGLE",
-        "URI": "giggle-fund",
-        "NAME": "Giggle Fund",
-        "LOGO": "/20946/1761214605515.png",
-        "TOTAL_MKT_CAP_USD": 32859215.644635614
-    },
-    {
-        "SYMBOL": "HIVE",
-        "URI": "hive",
-        "NAME": "Hive",
-        "LOGO": "/419/1669975384466.png",
-        "TOTAL_MKT_CAP_USD": 32596304.24559003
-    },
-    {
-        "SYMBOL": "AIXBT",
-        "URI": "aixbt",
-        "NAME": "aixbt by Virtuals",
-        "LOGO": "/17962/1732206372182.png",
-        "TOTAL_MKT_CAP_USD": 32534554.42625065
-    },
-    {
-        "SYMBOL": "ONE",
-        "URI": "one",
-        "NAME": "Harmony",
-        "LOGO": "/305/1668440765342.png",
-        "TOTAL_MKT_CAP_USD": 31987274.409931596
-    },
-    {
-        "SYMBOL": "PROM",
-        "URI": "prom",
-        "NAME": "Prometeus",
-        "LOGO": "/275/1730732362947.png",
-        "TOTAL_MKT_CAP_USD": 33076564.53582719
-    },
-    {
-        "SYMBOL": "CVC",
-        "URI": "civic",
-        "NAME": "Civic",
-        "LOGO": "/201/1691662985818.png",
-        "TOTAL_MKT_CAP_USD": 31108185.500681702
-    },
-    {
-        "SYMBOL": "CPOOL",
-        "URI": "cpool",
-        "NAME": "Clearpool",
-        "LOGO": "/1069/1672241236778.png",
-        "TOTAL_MKT_CAP_USD": 31624588.457624696
-    },
-    {
-        "SYMBOL": "STEEM",
-        "URI": "steem",
-        "NAME": "Steem",
-        "LOGO": "/139/1664201583915.png",
-        "TOTAL_MKT_CAP_USD": 31011084.007448807
-    },
-    {
-        "SYMBOL": "ONGAS",
-        "URI": "ongas",
-        "NAME": "Ontology Gas",
-        "LOGO": "/384/1692890803128.png",
-        "TOTAL_MKT_CAP_USD": 52803914.7065596
-    },
-    {
-        "SYMBOL": "ETHW",
-        "URI": "ethereum-pow",
-        "NAME": "EthereumPoW",
-        "LOGO": "/552/1670252232163.png",
-        "TOTAL_MKT_CAP_USD": 30924967.813827146
-    },
-    {
-        "SYMBOL": "XPIN",
-        "URI": "xpin-token",
-        "NAME": "XPIN Token",
-        "LOGO": "/20803/1759506152022.png",
-        "TOTAL_MKT_CAP_USD": 131088248.279865
-    },
-    {
-        "SYMBOL": "DKA",
-        "URI": "dka",
-        "NAME": "dKargo",
-        "LOGO": "/407/1669920093976.png",
-        "TOTAL_MKT_CAP_USD": 30758455.6651383
-    },
-    {
-        "SYMBOL": "DOGS",
-        "URI": "dogs",
-        "NAME": "Dogs",
-        "LOGO": "/16683/1724943956511.png",
-        "TOTAL_MKT_CAP_USD": 30574982.994528644
-    },
-    {
-        "SYMBOL": "BIGTIME",
-        "URI": "big-time",
-        "NAME": "Big Time",
-        "LOGO": "/3275/1697189123219.png",
-        "TOTAL_MKT_CAP_USD": 63629559.510117
-    },
-    {
-        "SYMBOL": "SCRT",
-        "URI": "secret",
-        "NAME": "Secret",
-        "LOGO": "/401/1736932258416.png",
-        "TOTAL_MKT_CAP_USD": 31082682.347272757
-    },
-    {
-        "SYMBOL": "FLUX",
-        "URI": "flux",
-        "NAME": "Flux",
-        "LOGO": "/408/1669920289550.png",
-        "TOTAL_MKT_CAP_USD": 29987299.509388268
-    },
-    {
-        "SYMBOL": "LCX",
-        "URI": "lcx",
-        "NAME": "LCX",
-        "LOGO": "/564/1670255249860.png",
-        "TOTAL_MKT_CAP_USD": 33166027.071531817
-    },
-    {
-        "SYMBOL": "SGB",
-        "URI": "sgb",
-        "NAME": "Songbird",
-        "LOGO": "/1555/1674031798340.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "LISTA",
-        "URI": "lista",
-        "NAME": "Lista DAO",
-        "LOGO": "/15401/1719224381460.png",
-        "TOTAL_MKT_CAP_USD": 64093258.010422006
-    },
-    {
-        "SYMBOL": "BREV",
-        "URI": "brevis-token",
-        "NAME": "Brevis Token",
-        "LOGO": "/21366/1767101143003.png",
-        "TOTAL_MKT_CAP_USD": 116041179.652054
-    },
-    {
-        "SYMBOL": "AUDIO",
-        "URI": "audius",
-        "NAME": "Audius",
-        "LOGO": "/244/1664898074678.png",
-        "TOTAL_MKT_CAP_USD": 28987046.35637611
-    },
-    {
-        "SYMBOL": "FTRB",
-        "URI": "ftrb",
-        "NAME": "Faith Tribe",
-        "LOGO": "/2562/1678101775234.png",
-        "TOTAL_MKT_CAP_USD": 28800075.360955
-    },
-    {
-        "SYMBOL": "LUSD",
-        "URI": "lusd",
-        "NAME": "Liquity USD",
-        "LOGO": "/833/1671440957638.png",
-        "TOTAL_MKT_CAP_USD": 28676051.230603512
-    },
-    {
-        "SYMBOL": "ARK",
-        "URI": "ark",
-        "NAME": "ARK",
-        "LOGO": "/546/1670251028220.png",
-        "TOTAL_MKT_CAP_USD": 32854538.088928778
-    },
-    {
-        "SYMBOL": "1000SATS",
-        "URI": "1000sats",
-        "NAME": "SATS",
-        "LOGO": "/10423/1702653421547.png",
-        "TOTAL_MKT_CAP_USD": 28517669.38221789
-    },
-    {
-        "SYMBOL": "SATS",
-        "URI": "sats",
-        "NAME": "SATS (Ordinals)",
-        "LOGO": "/9312/1705489764633.png",
-        "TOTAL_MKT_CAP_USD": 28445349.57009081
-    },
-    {
-        "SYMBOL": "LON",
-        "URI": "lon",
-        "NAME": "Tokenlon",
-        "LOGO": "/961/1671704422379.png",
-        "TOTAL_MKT_CAP_USD": 32324415.17181322
-    },
-    {
-        "SYMBOL": "LSK",
-        "URI": "lisk",
-        "NAME": "Lisk",
-        "LOGO": "/437/1669984951871.png",
-        "TOTAL_MKT_CAP_USD": 48601098.9761436
-    },
-    {
-        "SYMBOL": "ZEREBRO",
-        "URI": "zerebro",
-        "NAME": "Zerebro",
-        "LOGO": "/17992/1732291679967.png",
-        "TOTAL_MKT_CAP_USD": 28344053.871539384
-    },
-    {
-        "SYMBOL": "UQC",
-        "URI": "uqc",
-        "NAME": "Uquid Coin",
-        "LOGO": "/392/1669917106199.png",
-        "TOTAL_MKT_CAP_USD": 113151235.416428
-    },
-    {
-        "SYMBOL": "BLAST",
-        "URI": "blast",
-        "NAME": "Blast",
-        "LOGO": "/12263/1709202592273.png",
-        "TOTAL_MKT_CAP_USD": 45947892.1104753
-    },
-    {
-        "SYMBOL": "YGG",
-        "URI": "yield-guild-games",
-        "NAME": "Yield Guild Games",
-        "LOGO": "/174/1700473071435.png",
-        "TOTAL_MKT_CAP_USD": 38426964.5817611
-    },
-    {
-        "SYMBOL": "ZENT",
-        "URI": "zent",
-        "NAME": "Zentry",
-        "LOGO": "/14893/1716368901024.png",
-        "TOTAL_MKT_CAP_USD": 30185941.622989908
-    },
-    {
-        "SYMBOL": "IQ",
-        "URI": "iq",
-        "NAME": "IQ",
-        "LOGO": "/458/1675932966999.png",
-        "TOTAL_MKT_CAP_USD": 28003117.983076394
-    },
-    {
-        "SYMBOL": "LQTY",
-        "URI": "liquity",
-        "NAME": "Liquity",
-        "LOGO": "/489/1669994554861.png",
-        "TOTAL_MKT_CAP_USD": 28322711.967946302
-    },
-    {
-        "SYMBOL": "STRAX",
-        "URI": "strax",
-        "NAME": "Stratis",
-        "LOGO": "/337/1669895842583.png",
-        "TOTAL_MKT_CAP_USD": 27646186.854465667
-    },
-    {
-        "SYMBOL": "MLK",
-        "URI": "mlk",
-        "NAME": "MiL.k Alliance",
-        "LOGO": "/381/1669915095700.png",
-        "TOTAL_MKT_CAP_USD": 291635.8925422854
-    },
-    {
-        "SYMBOL": "CTSI",
-        "URI": "cartesi",
-        "NAME": "Cartesi",
-        "LOGO": "/440/1672396526893.png",
-        "TOTAL_MKT_CAP_USD": 30124588.560858898
-    },
-    {
-        "SYMBOL": "SLP",
-        "URI": "smooth-love-potion",
-        "NAME": "Smooth Love Potion",
-        "LOGO": "/183/1664374747005.png",
-        "TOTAL_MKT_CAP_USD": 27444620.668515056
-    },
-    {
-        "SYMBOL": "MTL",
-        "URI": "mtl",
-        "NAME": "Metal",
-        "LOGO": "/170/1664294403415.png",
-        "TOTAL_MKT_CAP_USD": 27385626.166907154
-    },
-    {
-        "SYMBOL": "GUN",
-        "URI": "gunz",
-        "NAME": "GUNZ",
-        "LOGO": "/19270/1744209362046.png",
-        "TOTAL_MKT_CAP_USD": 140004863.912674
-    },
-    {
-        "SYMBOL": "TREE",
-        "URI": "treehouse",
-        "NAME": "Treehouse",
-        "LOGO": "/20367/1753864378624.png",
-        "TOTAL_MKT_CAP_USD": 64068436.928424396
-    },
-    {
-        "SYMBOL": "UP",
-        "URI": "superform",
-        "NAME": "Superform",
-        "LOGO": "/21968/1777467432044.png",
-        "TOTAL_MKT_CAP_USD": 139678103.117612
-    },
-    {
-        "SYMBOL": "C",
-        "URI": "chainbase-token",
-        "NAME": "Chainbase Token",
-        "LOGO": "/20365/1753798831489.png",
-        "TOTAL_MKT_CAP_USD": 76022499.29676889
-    },
-    {
-        "SYMBOL": "CTK",
-        "URI": "ctk",
-        "NAME": "Shentu",
-        "LOGO": "/465/1669991323735.png",
-        "TOTAL_MKT_CAP_USD": 26293155.934076767
-    },
-    {
-        "SYMBOL": "PHA",
-        "URI": "pha",
-        "NAME": "Phala Network",
-        "LOGO": "/259/1727688897918.png",
-        "TOTAL_MKT_CAP_USD": 31257062.0890432
-    },
-    {
-        "SYMBOL": "DOVU",
-        "URI": "dovu",
-        "NAME": "DOVU",
-        "LOGO": "/14624/1715678982207.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "METIS",
-        "URI": "metisdao",
-        "NAME": "Metis Token",
-        "LOGO": "/242/1703157404381.png",
-        "TOTAL_MKT_CAP_USD": 35550513.616647005
-    },
-    {
-        "SYMBOL": "FAI",
-        "URI": "fai",
-        "NAME": "Freysa AI",
-        "LOGO": "/18271/1736155077834.png",
-        "TOTAL_MKT_CAP_USD": 26052884.444574974
-    },
-    {
-        "SYMBOL": "AERGO",
-        "URI": "aergo",
-        "NAME": "AERGO",
-        "LOGO": "/36/1678893822441.png",
-        "TOTAL_MKT_CAP_USD": 26503243.10972185
-    },
-    {
-        "SYMBOL": "SEDA",
-        "URI": "seda",
-        "NAME": "SEDA Token",
-        "LOGO": "/14930/1716539639065.png",
-        "TOTAL_MKT_CAP_USD": 35800120.3615284
-    },
-    {
-        "SYMBOL": "ABT",
-        "URI": "abt",
-        "NAME": "ArcBlock",
-        "LOGO": "/694/1744105961341.png",
-        "TOTAL_MKT_CAP_USD": 48907086.17039549
-    },
-    {
-        "SYMBOL": "CETUS",
-        "URI": "cetus",
-        "NAME": "Cetus Protocol",
-        "LOGO": "/10567/1705921082604.png",
-        "TOTAL_MKT_CAP_USD": 27342062.0149792
-    },
-    {
-        "SYMBOL": "AEVO",
-        "URI": "aevo",
-        "NAME": "Aevo",
-        "LOGO": "/12705/1710237758713.png",
-        "TOTAL_MKT_CAP_USD": 28220161.5456459
-    },
-    {
-        "SYMBOL": "JCT",
-        "URI": "janction",
-        "NAME": "Janction",
-        "LOGO": "/21082/1762854330365.png",
-        "TOTAL_MKT_CAP_USD": 184988218.8730105
-    },
-    {
-        "SYMBOL": "PRIME",
-        "URI": "echelon-prime",
-        "NAME": "Echelon Prime",
-        "LOGO": "/3044/1685694624028.png",
-        "TOTAL_MKT_CAP_USD": 40802374.2090115
-    },
-    {
-        "SYMBOL": "MMT",
-        "URI": "momentum",
-        "NAME": "Momentum",
-        "LOGO": "/21063/1762516997714.png",
-        "TOTAL_MKT_CAP_USD": 124156589.18831101
-    },
-    {
-        "SYMBOL": "USUAL",
-        "URI": "usual",
-        "NAME": "Usual",
-        "LOGO": "/18057/1736178809703.png",
-        "TOTAL_MKT_CAP_USD": 25710802.40366196
-    },
-    {
-        "SYMBOL": "SERV",
-        "URI": "openserv",
-        "NAME": "OpenServ",
-        "LOGO": "/21199/1764235093533.png",
-        "TOTAL_MKT_CAP_USD": 32764096.5324969
-    },
-    {
-        "SYMBOL": "CBK",
-        "URI": "cbk",
-        "NAME": "Cobak Token",
-        "LOGO": "/962/1671704827128.png",
-        "TOTAL_MKT_CAP_USD": 25049085.258624
-    },
-    {
-        "SYMBOL": "ERG",
-        "URI": "erg",
-        "NAME": "Ergo",
-        "LOGO": "/470/1674826055330.png",
-        "TOTAL_MKT_CAP_USD": 24959432.54524074
-    },
-    {
-        "SYMBOL": "WOJAK",
-        "URI": "wojak",
-        "NAME": "wojak (wojakcto.com)",
-        "LOGO": "/21918/1776938917954.png",
-        "TOTAL_MKT_CAP_USD": 24861804.865965337
-    },
-    {
-        "SYMBOL": "LA",
-        "URI": "lagrange",
-        "NAME": "Lagrange",
-        "LOGO": "/20026/1750926859172.png",
-        "TOTAL_MKT_CAP_USD": 127072978.83628576
-    },
-    {
-        "SYMBOL": "XAN",
-        "URI": "anoma",
-        "NAME": "Anoma",
-        "LOGO": "/20766/1759160129008.png",
-        "TOTAL_MKT_CAP_USD": 98844429.5189136
-    },
-    {
-        "SYMBOL": "PIXEL",
-        "URI": "pixel",
-        "NAME": "Pixels",
-        "LOGO": "/12127/1708966969457.png",
-        "TOTAL_MKT_CAP_USD": 36505911.45340625
-    },
-    {
-        "SYMBOL": "RSC",
-        "URI": "rsc",
-        "NAME": "ResearchCoin",
-        "LOGO": "/10483/1705404310737.png",
-        "TOTAL_MKT_CAP_USD": 139143728.328309
-    },
-    {
-        "SYMBOL": "MOVR",
-        "URI": "moonriver",
-        "NAME": "Moonriver",
-        "LOGO": "/472/1669992518552.png",
-        "TOTAL_MKT_CAP_USD": 28631188.062009282
-    },
-    {
-        "SYMBOL": "DBR",
-        "URI": "dbr",
-        "NAME": "deBridge",
-        "LOGO": "/17479/1729237943801.png",
-        "TOTAL_MKT_CAP_USD": 135890552.642876
-    },
-    {
-        "SYMBOL": "PIPPIN",
-        "URI": "pippin",
-        "NAME": "pippin",
-        "LOGO": "/17934/1732186194719.png",
-        "TOTAL_MKT_CAP_USD": 24146159.301957775
-    },
-    {
-        "SYMBOL": "ACU",
-        "URI": "acurast-token",
-        "NAME": "Acurast Token",
-        "LOGO": "/21923/1776956380249.png",
-        "TOTAL_MKT_CAP_USD": 91285345.27132154
-    },
-    {
-        "SYMBOL": "DEGEN",
-        "URI": "degen",
-        "NAME": "Degen",
-        "LOGO": "/13711/1712911469721.png",
-        "TOTAL_MKT_CAP_USD": 36211241.497455604
-    },
-    {
-        "SYMBOL": "LRC",
-        "URI": "loopring",
-        "NAME": "Loopring",
-        "LOGO": "/109/1774264188000.png",
-        "TOTAL_MKT_CAP_USD": 23829907.25394289
-    },
-    {
-        "SYMBOL": "ID",
-        "URI": "space-id",
-        "NAME": "SPACE",
-        "LOGO": "/3067/1686819959802.png",
-        "TOTAL_MKT_CAP_USD": 61086883.77271706
-    },
-    {
-        "SYMBOL": "XNY",
-        "URI": "codatta",
-        "NAME": "Codatta",
-        "LOGO": "/20721/1757950948976.png",
-        "TOTAL_MKT_CAP_USD": 93710099.5833642
-    },
-    {
-        "SYMBOL": "PUMPCADE",
-        "URI": "pumpcade",
-        "NAME": "PUMPCADE",
-        "LOGO": "/21854/1776174663155.png",
-        "TOTAL_MKT_CAP_USD": 23277827.2316842
-    },
-    {
-        "SYMBOL": "PONKE",
-        "URI": "ponke",
-        "NAME": "Ponke",
-        "LOGO": "/11137/1707148549282.png",
-        "TOTAL_MKT_CAP_USD": 23152768.70944694
-    },
-    {
-        "SYMBOL": "FOLKS",
-        "URI": "folks-finance",
-        "NAME": "Folks Finance",
-        "LOGO": "/21135/1763395063999.png",
-        "TOTAL_MKT_CAP_USD": 69345800.538847
-    },
-    {
-        "SYMBOL": "QANX",
-        "URI": "qanx",
-        "NAME": "QANplatform",
-        "LOGO": "/2460/1677663699567.png",
-        "TOTAL_MKT_CAP_USD": 23087129.694349837
-    },
-    {
-        "SYMBOL": "ERA",
-        "URI": "caldera",
-        "NAME": "Caldera",
-        "LOGO": "/20264/1752847874222.png",
-        "TOTAL_MKT_CAP_USD": 130572211.148618
-    },
-    {
-        "SYMBOL": "OHO",
-        "URI": "oho",
-        "NAME": "OHO",
-        "LOGO": "/2522/1677765321189.png",
-        "TOTAL_MKT_CAP_USD": 42477919.401948236
-    },
-    {
-        "SYMBOL": "VADERPROTOCOL",
-        "URI": "vaderprotocol",
-        "NAME": "Vader Protocol",
-        "LOGO": "/9290/1698779800038.png",
-        "TOTAL_MKT_CAP_USD": 64391780.47240342
-    },
-    {
-        "SYMBOL": "FLOCK",
-        "URI": "flock-i-o",
-        "NAME": "FLock.io",
-        "LOGO": "/18977/1741857640798.png",
-        "TOTAL_MKT_CAP_USD": 22838081.193036813
-    },
-    {
-        "SYMBOL": "CLANKER",
-        "URI": "clanker",
-        "NAME": "tokenbot",
-        "LOGO": "/18034/1732612130927.png",
-        "TOTAL_MKT_CAP_USD": 22642752.8338603
-    },
-    {
-        "SYMBOL": "CATI",
-        "URI": "cati",
-        "NAME": "Catizen",
-        "LOGO": "/17081/1730738027589.png",
-        "TOTAL_MKT_CAP_USD": 54000357.64506646
-    },
-    {
-        "SYMBOL": "XAI",
-        "URI": "xai",
-        "NAME": "Xai",
-        "LOGO": "/3493/1704883634527.png",
-        "TOTAL_MKT_CAP_USD": 24139181.459208477
-    },
-    {
-        "SYMBOL": "GOOGLX",
-        "URI": "alphabet-xstock",
-        "NAME": "Alphabet xStock",
-        "LOGO": "/20066/1751361260224.png",
-        "TOTAL_MKT_CAP_USD": 161508899.94881898
-    },
-    {
-        "SYMBOL": "NIL",
-        "URI": "nillion",
-        "NAME": "Nillion",
-        "LOGO": "/19087/1742892268228.png",
-        "TOTAL_MKT_CAP_USD": 49642328.8891936
-    },
-    {
-        "SYMBOL": "NYM",
-        "URI": "nym",
-        "NAME": "Nym Token",
-        "LOGO": "/891/1671540349044.png",
-        "TOTAL_MKT_CAP_USD": 26708120.762177
-    },
-    {
-        "SYMBOL": "CHR",
-        "URI": "chromia",
-        "NAME": "Chromia",
-        "LOGO": "/191/1664375752524.png",
-        "TOTAL_MKT_CAP_USD": 22243435.674027815
-    },
-    {
-        "SYMBOL": "AGLD",
-        "URI": "agld",
-        "NAME": "Adventure Gold",
-        "LOGO": "/652/1670335421575.png",
-        "TOTAL_MKT_CAP_USD": 22144689.40447815
-    },
-    {
-        "SYMBOL": "QKC",
-        "URI": "qkc",
-        "NAME": "QuarkChain",
-        "LOGO": "/76/1663318327768.png",
-        "TOTAL_MKT_CAP_USD": 21983782.51259236
-    },
-    {
-        "SYMBOL": "AGI",
-        "URI": "agi",
-        "NAME": "Delysium",
-        "LOGO": "/10392/1701682681287.png",
-        "TOTAL_MKT_CAP_USD": 25980456.51157206
-    },
-    {
-        "SYMBOL": "DIA",
-        "URI": "dia",
-        "NAME": "DIA",
-        "LOGO": "/494/1772208599846.png",
-        "TOTAL_MKT_CAP_USD": 30944341.899429955
-    },
-    {
-        "SYMBOL": "MIRA",
-        "URI": "mira",
-        "NAME": "Mira",
-        "LOGO": "/20754/1759133911436.png",
-        "TOTAL_MKT_CAP_USD": 77216482.16644959
-    },
-    {
-        "SYMBOL": "RUJI",
-        "URI": "rujira",
-        "NAME": "Rujira",
-        "LOGO": "/21972/1777476895291.png",
-        "TOTAL_MKT_CAP_USD": 29181016.4626037
-    },
-    {
-        "SYMBOL": "WAXP",
-        "URI": "wax",
-        "NAME": "Worldwide Asset eXchange",
-        "LOGO": "/390/1669916813002.png",
-        "TOTAL_MKT_CAP_USD": 29593637.017877776
-    },
-    {
-        "SYMBOL": "MAGIC",
-        "URI": "magic",
-        "NAME": "MAGIC",
-        "LOGO": "/843/1671448482833.png",
-        "TOTAL_MKT_CAP_USD": 22318214.385301184
-    },
-    {
-        "SYMBOL": "CELR",
-        "URI": "celer-network",
-        "NAME": "Celer Network",
-        "LOGO": "/164/1664289930918.png",
-        "TOTAL_MKT_CAP_USD": 26297015.0350342
-    },
-    {
-        "SYMBOL": "LUMIA",
-        "URI": "lumia",
-        "NAME": "Lumia",
-        "LOGO": "/17486/1729251086555.png",
-        "TOTAL_MKT_CAP_USD": 25564798.56539719
-    },
-    {
-        "SYMBOL": "POWER",
-        "URI": "power",
-        "NAME": "Power",
-        "LOGO": "/21308/1766050766485.png",
-        "TOTAL_MKT_CAP_USD": 80019521.7407613
-    },
-    {
-        "SYMBOL": "OSAK",
-        "URI": "osak",
-        "NAME": "Osaka Protocol",
-        "LOGO": "/12014/1708687756692.png",
-        "TOTAL_MKT_CAP_USD": 20754366.49633955
-    },
-    {
-        "SYMBOL": "BLEND",
-        "URI": "fluent",
-        "NAME": "Fluent",
-        "LOGO": "/21933/1777280661783.png",
-        "TOTAL_MKT_CAP_USD": 102915494.277134
-    },
-    {
-        "SYMBOL": "HUNT",
-        "URI": "hunt",
-        "NAME": "HUNT",
-        "LOGO": "/513/1675163194624.png",
-        "TOTAL_MKT_CAP_USD": 20575623.65403477
-    },
-    {
-        "SYMBOL": "ARPA",
-        "URI": "arpa",
-        "NAME": "ARPA Chain",
-        "LOGO": "/214/1664462842461.png",
-        "TOTAL_MKT_CAP_USD": 23348844.358973272
-    },
-    {
-        "SYMBOL": "TAIKO",
-        "URI": "taiko",
-        "NAME": "Taiko",
-        "LOGO": "/15244/1718611800072.png",
-        "TOTAL_MKT_CAP_USD": 110708137.56510301
-    },
-    {
-        "SYMBOL": "COINDEPO",
-        "URI": "coindepo-token",
-        "NAME": "CoinDepo Token",
-        "LOGO": "/20788/1759398086706.png",
-        "TOTAL_MKT_CAP_USD": 73462160.92236716
-    },
-    {
-        "SYMBOL": "C98",
-        "URI": "coin98",
-        "NAME": "Coin98",
-        "LOGO": "/578/1670257856728.png",
-        "TOTAL_MKT_CAP_USD": 20029919.9136619
-    },
-    {
-        "SYMBOL": "ORDER",
-        "URI": "order",
-        "NAME": "Orderly Network",
-        "LOGO": "/16587/1724661379254.png",
-        "TOTAL_MKT_CAP_USD": 53256583.1414773
-    },
-    {
-        "SYMBOL": "READY",
-        "URI": "ready",
-        "NAME": "READY!",
-        "LOGO": "/19606/1747402494832.png",
-        "TOTAL_MKT_CAP_USD": 19980953.806773975
-    },
-    {
-        "SYMBOL": "CORN",
-        "URI": "corn",
-        "NAME": "Corn",
-        "LOGO": "/19226/1743667812485.png",
-        "TOTAL_MKT_CAP_USD": 79725950.72191575
-    },
-    {
-        "SYMBOL": "VOW",
-        "URI": "vow",
-        "NAME": "Vow",
-        "LOGO": "/2430/1677578402681.png",
-        "TOTAL_MKT_CAP_USD": 21828618.949989583
-    },
-    {
-        "SYMBOL": "EGL1",
-        "URI": "egl1",
-        "NAME": "EGL1",
-        "LOGO": "/19867/1749458806694.png",
-        "TOTAL_MKT_CAP_USD": 20711806.2389597
-    },
-    {
-        "SYMBOL": "FIRO",
-        "URI": "firo",
-        "NAME": "Firo",
-        "LOGO": "/64/1727176840480.png",
-        "TOTAL_MKT_CAP_USD": 19854365.622171476
-    },
-    {
-        "SYMBOL": "WIN",
-        "URI": "win",
-        "NAME": "WINkLink",
-        "LOGO": "/91/1736933323751.png",
-        "TOTAL_MKT_CAP_USD": 19839622.59655366
-    },
-    {
-        "SYMBOL": "GOAT",
-        "URI": "goat",
-        "NAME": "Goatseus Maximus",
-        "LOGO": "/17393/1728905808708.png",
-        "TOTAL_MKT_CAP_USD": 19803788.294329524
-    },
-    {
-        "SYMBOL": "MAPO",
-        "URI": "map-protocol",
-        "NAME": "MAP Protocol",
-        "LOGO": "/19490/1746616281944.png",
-        "TOTAL_MKT_CAP_USD": 31837166.8683457
-    },
-    {
-        "SYMBOL": "EUL",
-        "URI": "eul",
-        "NAME": "Euler",
-        "LOGO": "/993/1671784633399.png",
-        "TOTAL_MKT_CAP_USD": 34382068.05607447
-    },
-    {
-        "SYMBOL": "ACX",
-        "URI": "acx",
-        "NAME": "Across Protocol",
-        "LOGO": "/1222/1672926345916.png",
-        "TOTAL_MKT_CAP_USD": 42440797.420651
-    },
-    {
-        "SYMBOL": "FLIP",
-        "URI": "flip",
-        "NAME": "Chainflip",
-        "LOGO": "/10393/1701777574292.png",
-        "TOTAL_MKT_CAP_USD": 19871428.974604063
-    },
-    {
-        "SYMBOL": "HIGH",
-        "URI": "highstreet",
-        "NAME": "Highstreet",
-        "LOGO": "/222/1664547579578.png",
-        "TOTAL_MKT_CAP_USD": 19540020.188373398
-    },
-    {
-        "SYMBOL": "AURORA",
-        "URI": "aurora",
-        "NAME": "Aurora",
-        "LOGO": "/357/1698662910658.png",
-        "TOTAL_MKT_CAP_USD": 27400369.431223854
-    },
-    {
-        "SYMBOL": "ALLO",
-        "URI": "allora",
-        "NAME": "Allora",
-        "LOGO": "/21084/1762872474685.png",
-        "TOTAL_MKT_CAP_USD": 65652801.542297535
-    },
-    {
-        "SYMBOL": "WELL",
-        "URI": "well",
-        "NAME": "Moonwell",
-        "LOGO": "/3064/1730809602101.png",
-        "TOTAL_MKT_CAP_USD": 20850053.1498841
-    },
-    {
-        "SYMBOL": "AURA",
-        "URI": "aura",
-        "NAME": "aura",
-        "LOGO": "/20255/1752743593695.png",
-        "TOTAL_MKT_CAP_USD": 19006185.20817607
-    },
-    {
-        "SYMBOL": "APTM",
-        "URI": "apertum",
-        "NAME": "Apertum",
-        "LOGO": "/19265/1744188971956.png",
-        "TOTAL_MKT_CAP_USD": 18962747.20441456
-    },
-    {
-        "SYMBOL": "DRIFT",
-        "URI": "drift",
-        "NAME": "Drift protocol",
-        "LOGO": "/13777/1713255929886.png",
-        "TOTAL_MKT_CAP_USD": 30596453.239571944
-    },
-    {
-        "SYMBOL": "VELOD",
-        "URI": "velod",
-        "NAME": "Velodrome Finance",
-        "LOGO": "/3130/1688542387267.png",
-        "TOTAL_MKT_CAP_USD": 39575750.8898133
-    },
-    {
-        "SYMBOL": "DODO",
-        "URI": "dodo",
-        "NAME": "DODO",
-        "LOGO": "/436/1669984766339.png",
-        "TOTAL_MKT_CAP_USD": 18720194.230375133
-    },
-    {
-        "SYMBOL": "WET",
-        "URI": "humidifi-token",
-        "NAME": "HumidiFi Token",
-        "LOGO": "/21309/1766051695916.png",
-        "TOTAL_MKT_CAP_USD": 81212845.13267049
-    },
-    {
-        "SYMBOL": "ETN",
-        "URI": "etn",
-        "NAME": "Electroneum",
-        "LOGO": "/570/1670256407343.png",
-        "TOTAL_MKT_CAP_USD": 18528048.295737308
-    },
-    {
-        "SYMBOL": "HARRYP",
-        "URI": "harryp",
-        "NAME": "HarryPotterObamaSonic10Inu (ETH)",
-        "LOGO": "/3258/1695287756137.png",
-        "TOTAL_MKT_CAP_USD": 18482470.935611933
-    },
-    {
-        "SYMBOL": "KERNEL",
-        "URI": "kerneldao",
-        "NAME": "KernelDAO",
-        "LOGO": "/19301/1744641635023.png",
-        "TOTAL_MKT_CAP_USD": 64192975.0148353
-    },
-    {
-        "SYMBOL": "AVA",
-        "URI": "travalacom",
-        "NAME": "AVA",
-        "LOGO": "/566/1699612896516.png",
-        "TOTAL_MKT_CAP_USD": 18187191.520897623
-    },
-    {
-        "SYMBOL": "CHECK",
-        "URI": "checkmate",
-        "NAME": "Checkmate",
-        "LOGO": "/21202/1764237712354.png",
-        "TOTAL_MKT_CAP_USD": 44474860.0637618
-    },
-    {
-        "SYMBOL": "MBL",
-        "URI": "mbl",
-        "NAME": "MovieBloc",
-        "LOGO": "/475/1732289402614.png",
-        "TOTAL_MKT_CAP_USD": 27789263.329979792
-    },
-    {
-        "SYMBOL": "AIOT",
-        "URI": "okzoo",
-        "NAME": "OKZOO",
-        "LOGO": "/20103/1751449257101.png",
-        "TOTAL_MKT_CAP_USD": 79187526.9362501
-    },
-    {
-        "SYMBOL": "NMC",
-        "URI": "nmc",
-        "NAME": "Namecoin",
-        "LOGO": "/1055/1672226238092.png",
-        "TOTAL_MKT_CAP_USD": 17914083.194990747
-    },
-    {
-        "SYMBOL": "ADS",
-        "URI": "ads",
-        "NAME": "Adshares",
-        "LOGO": "/536/1670248430586.png",
-        "TOTAL_MKT_CAP_USD": 17895945.000470217
-    },
-    {
-        "SYMBOL": "TST",
-        "URI": "tst",
-        "NAME": "Test",
-        "LOGO": "/18750/1740388108198.png",
-        "TOTAL_MKT_CAP_USD": 17838856.850512307
-    },
-    {
-        "SYMBOL": "JOE",
-        "URI": "joe",
-        "NAME": "LFJ",
-        "LOGO": "/333/1749631887597.png",
-        "TOTAL_MKT_CAP_USD": 21744640.342534937
-    },
-    {
-        "SYMBOL": "TREEOFALPHA",
-        "URI": "tree-of-alpha",
-        "NAME": "Tree",
-        "LOGO": "/18161/1733393211067.png",
-        "TOTAL_MKT_CAP_USD": 21666450.617825616
-    },
-    {
-        "SYMBOL": "MSQ",
-        "URI": "msq",
-        "NAME": "MSquare Global",
-        "LOGO": "/9687/1698780061527.png",
-        "TOTAL_MKT_CAP_USD": 17456737.244898185
-    },
-    {
-        "SYMBOL": "POKT",
-        "URI": "pokt",
-        "NAME": "Pocket Network",
-        "LOGO": "/1165/1672829912333.png",
-        "TOTAL_MKT_CAP_USD": 18212688.09145326
-    },
-    {
-        "SYMBOL": "AI",
-        "URI": "ai",
-        "NAME": "Sleepless AI Token",
-        "LOGO": "/10506/1705657961452.png",
-        "TOTAL_MKT_CAP_USD": 31867289.724049702
-    },
-    {
-        "SYMBOL": "SAUCE",
-        "URI": "sauce",
-        "NAME": "SaucerSwap",
-        "LOGO": "/10414/1702398556151.png",
-        "TOTAL_MKT_CAP_USD": 18987787.001330823
-    },
-    {
-        "SYMBOL": "SANTOS",
-        "URI": "santos-fc-fan-token",
-        "NAME": "Santos FC Fan Token",
-        "LOGO": "/985/1671721610953.png",
-        "TOTAL_MKT_CAP_USD": 31782351.5196954
-    },
-    {
-        "SYMBOL": "VINE",
-        "URI": "vine",
-        "NAME": "Vine Coin",
-        "LOGO": "/18438/1737968137714.png",
-        "TOTAL_MKT_CAP_USD": 16932872.620140128
-    },
-    {
-        "SYMBOL": "GLMR",
-        "URI": "moonbeam",
-        "NAME": "Moonbeam",
-        "LOGO": "/163/1727176483116.png",
-        "TOTAL_MKT_CAP_USD": 18803289.75339914
-    },
-    {
-        "SYMBOL": "L3",
-        "URI": "l3",
-        "NAME": "Layer3",
-        "LOGO": "/16157/1722435501943.png",
-        "TOTAL_MKT_CAP_USD": 36669600.21450756
-    },
-    {
-        "SYMBOL": "BOBL2",
-        "URI": "bobl2",
-        "NAME": "BOB",
-        "LOGO": "/18441/1737970620987.png",
-        "TOTAL_MKT_CAP_USD": 56906905.0723321
-    },
-    {
-        "SYMBOL": "FIDA",
-        "URI": "fida",
-        "NAME": "Bonfida",
-        "LOGO": "/849/1727254501020.png",
-        "TOTAL_MKT_CAP_USD": 16439056.882734448
-    },
-    {
-        "SYMBOL": "PSG",
-        "URI": "psg",
-        "NAME": "Paris Saint-Germain Fan Token",
-        "LOGO": "/986/1671721850200.png",
-        "TOTAL_MKT_CAP_USD": 21148658.324858356
-    },
-    {
-        "SYMBOL": "MITO",
-        "URI": "mitosis",
-        "NAME": "Mitosis",
-        "LOGO": "/20642/1756719845896.png",
-        "TOTAL_MKT_CAP_USD": 47556733.9188246
-    },
-    {
-        "SYMBOL": "BANANA",
-        "URI": "banana",
-        "NAME": "Banana Gun",
-        "LOGO": "/10588/1730819153278.png",
-        "TOTAL_MKT_CAP_USD": 32535316.946296852
-    },
-    {
-        "SYMBOL": "BB",
-        "URI": "bb",
-        "NAME": "BounceBit",
-        "LOGO": "/15075/1717402549469.png",
-        "TOTAL_MKT_CAP_USD": 66456978.14196966
-    },
-    {
-        "SYMBOL": "AVAIL",
-        "URI": "avail",
-        "NAME": "Avail",
-        "LOGO": "/15972/1721895820891.png",
-        "TOTAL_MKT_CAP_USD": 46232885.31636126
-    },
-    {
-        "SYMBOL": "HT",
-        "URI": "huobi-token",
-        "NAME": "Huobi Token",
-        "LOGO": "/168/1664292811022.png",
-        "TOTAL_MKT_CAP_USD": 15963261.420534467
-    },
-    {
-        "SYMBOL": "SCOR",
-        "URI": "scor",
-        "NAME": "Scor",
-        "LOGO": "/21338/1766161160548.png",
-        "TOTAL_MKT_CAP_USD": 79919941.35802801
-    },
-    {
-        "SYMBOL": "NEWT",
-        "URI": "newton-protocol",
-        "NAME": "Newton Protocol",
-        "LOGO": "/20014/1750837471658.png",
-        "TOTAL_MKT_CAP_USD": 73857666.432453
-    },
-    {
-        "SYMBOL": "ARARA",
-        "URI": "araracoin",
-        "NAME": "Araracoin",
-        "LOGO": "/20630/1756391193383.png",
-        "TOTAL_MKT_CAP_USD": 43636519.492601804
-    },
-    {
-        "SYMBOL": "XRD",
-        "URI": "radix",
-        "NAME": "Radix",
-        "LOGO": "/349/1674642132809.png",
-        "TOTAL_MKT_CAP_USD": 15814153.051491572
-    },
-    {
-        "SYMBOL": "IXS",
-        "URI": "ixs",
-        "NAME": "IXS Token",
-        "LOGO": "/2489/1754646223478.png",
-        "TOTAL_MKT_CAP_USD": 15603422.93214406
-    },
-    {
-        "SYMBOL": "CHILLGUY",
-        "URI": "chillguy",
-        "NAME": "Chill Guy",
-        "LOGO": "/17920/1732101565533.png",
-        "TOTAL_MKT_CAP_USD": 15533512.238227788
-    },
-    {
-        "SYMBOL": "OG",
-        "URI": "og",
-        "NAME": "OG Fan Token",
-        "LOGO": "/1367/1673433813450.png",
-        "TOTAL_MKT_CAP_USD": 16444298.95147525
-    },
-    {
-        "SYMBOL": "SDEX",
-        "URI": "sdex",
-        "NAME": "SmarDex",
-        "LOGO": "/10373/1700564777906.png",
-        "TOTAL_MKT_CAP_USD": 15424678.141832093
-    },
-    {
-        "SYMBOL": "ELSA",
-        "URI": "elsa",
-        "NAME": "Elsa",
-        "LOGO": "/21487/1768906514409.png",
-        "TOTAL_MKT_CAP_USD": 66838773.3820919
-    },
-    {
-        "SYMBOL": "BUTTC",
-        "URI": "buttc",
-        "NAME": "Buttcoin",
-        "LOGO": "/21537/1769426264820.png",
-        "TOTAL_MKT_CAP_USD": 15251085.76075764
-    },
-    {
-        "SYMBOL": "VR",
-        "URI": "vr",
-        "NAME": "Victoria",
-        "LOGO": "/1323/1673364995449.png",
-        "TOTAL_MKT_CAP_USD": 27820961.960137755
-    },
-    {
-        "SYMBOL": "MELANIA",
-        "URI": "melania",
-        "NAME": "Melania Meme",
-        "LOGO": "/18379/1737362035111.png",
-        "TOTAL_MKT_CAP_USD": 100160462.48001784
-    },
-    {
         "SYMBOL": "NCT",
         "URI": "nct",
         "NAME": "PolySwarm",
@@ -4233,6 +2126,13 @@
         "NAME": "Marina Protocol",
         "LOGO": "/21115/1763042930867.png",
         "TOTAL_MKT_CAP_USD": 22863329.3435903
+    },
+    {
+        "SYMBOL": "IXS",
+        "URI": "ixs",
+        "NAME": "IXS Token",
+        "LOGO": "/2489/1754646223478.png",
+        "TOTAL_MKT_CAP_USD": 14849234.085782826
     },
     {
         "SYMBOL": "BROCCOLI",
@@ -4337,7 +2237,7 @@
         "URI": "sweat-economy",
         "NAME": "Sweat Economy",
         "LOGO": "/984/1671721249265.png",
-        "TOTAL_MKT_CAP_USD": 30877676.100393854
+        "TOTAL_MKT_CAP_USD": 30877716.91338765
     },
     {
         "SYMBOL": "ALICE",
@@ -4365,7 +2265,7 @@
         "URI": "act",
         "NAME": "Act I The AI Prophecy",
         "LOGO": "/17960/1732205590598.png",
-        "TOTAL_MKT_CAP_USD": 13143523.834994407
+        "TOTAL_MKT_CAP_USD": 13143523.833053874
     },
     {
         "SYMBOL": "GNS",
@@ -4452,13 +2352,6 @@
         "TOTAL_MKT_CAP_USD": 85321742.28193839
     },
     {
-        "SYMBOL": "US",
-        "URI": "talus-token",
-        "NAME": "Talus Token",
-        "LOGO": "/21270/1765539414872.png",
-        "TOTAL_MKT_CAP_USD": 57676403.9537059
-    },
-    {
         "SYMBOL": "YB",
         "URI": "yield-basis",
         "NAME": "Yield Basis",
@@ -4491,7 +2384,7 @@
         "URI": "swarms",
         "NAME": "Swarms",
         "LOGO": "/18282/1736348376704.png",
-        "TOTAL_MKT_CAP_USD": 12400670.799566843
+        "TOTAL_MKT_CAP_USD": 12400670.799566831
     },
     {
         "SYMBOL": "NST",
@@ -4547,7 +2440,7 @@
         "URI": "wan",
         "NAME": "Wanchain",
         "LOGO": "/565/1675349249001.png",
-        "TOTAL_MKT_CAP_USD": 11960940.29324156
+        "TOTAL_MKT_CAP_USD": 11960926.166924091
     },
     {
         "SYMBOL": "TOKEN",
@@ -4561,7 +2454,7 @@
         "URI": "dymension",
         "NAME": "Dymension",
         "LOGO": "/11151/1707211090626.png",
-        "TOTAL_MKT_CAP_USD": 23944259.840398353
+        "TOTAL_MKT_CAP_USD": 23944361.405288424
     },
     {
         "SYMBOL": "AQUA",
@@ -4736,7 +2629,7 @@
         "URI": "abel",
         "NAME": "Abelian",
         "LOGO": "/10587/1772537886105.png",
-        "TOTAL_MKT_CAP_USD": 10697897.128984457
+        "TOTAL_MKT_CAP_USD": 10698086.920813097
     },
     {
         "SYMBOL": "IKA",
@@ -4778,7 +2671,7 @@
         "URI": "xion",
         "NAME": "XION",
         "LOGO": "/18168/1733401598363.png",
-        "TOTAL_MKT_CAP_USD": 30103274.53947945
+        "TOTAL_MKT_CAP_USD": 30103402.853376936
     },
     {
         "SYMBOL": "4",
@@ -4834,7 +2727,7 @@
         "URI": "hypurr-fun",
         "NAME": "Hypurr Fun",
         "LOGO": "/20502/1755513228894.png",
-        "TOTAL_MKT_CAP_USD": 9724956.645133847
+        "TOTAL_MKT_CAP_USD": 9724956.056875737
     },
     {
         "SYMBOL": "IAG",
@@ -4883,7 +2776,7 @@
         "URI": "saga",
         "NAME": "Saga",
         "LOGO": "/13910/1713438592012.png",
-        "TOTAL_MKT_CAP_USD": 25882554.862018038
+        "TOTAL_MKT_CAP_USD": 25882679.87069588
     },
     {
         "SYMBOL": "METYA",
@@ -4897,7 +2790,7 @@
         "URI": "klv",
         "NAME": "Klever",
         "LOGO": "/585/1670265737682.png",
-        "TOTAL_MKT_CAP_USD": 9129457.677828332
+        "TOTAL_MKT_CAP_USD": 9129437.3975153
     },
     {
         "SYMBOL": "LAT",
@@ -4918,7 +2811,7 @@
         "URI": "access-protocol",
         "NAME": "Access Protocol",
         "LOGO": "/2363/1677141370030.png",
-        "TOTAL_MKT_CAP_USD": 16475408.36710473
+        "TOTAL_MKT_CAP_USD": 16475437.333789343
     },
     {
         "SYMBOL": "BADGER",
@@ -4988,7 +2881,7 @@
         "URI": "make-aliens-great-again",
         "NAME": "Make Aliens Great Again",
         "LOGO": "/22031/1778145056024.png",
-        "TOTAL_MKT_CAP_USD": 8658803.1897843
+        "TOTAL_MKT_CAP_USD": 8658803.189784283
     },
     {
         "SYMBOL": "BLUE",
@@ -5173,6 +3066,13 @@
         "TOTAL_MKT_CAP_USD": 7353357.356728357
     },
     {
+        "SYMBOL": "US",
+        "URI": "talus-token",
+        "NAME": "Talus Token",
+        "LOGO": "/21270/1765539414872.png",
+        "TOTAL_MKT_CAP_USD": 57676403.9537059
+    },
+    {
         "SYMBOL": "PNG",
         "URI": "png",
         "NAME": "Pangolin",
@@ -5296,7 +3196,7 @@
         "URI": "pivx",
         "NAME": "Private Instant Verified Transaction",
         "LOGO": "/688/1677765183216.png",
-        "TOTAL_MKT_CAP_USD": 6895554.133122161
+        "TOTAL_MKT_CAP_USD": 6895585.51183018
     },
     {
         "SYMBOL": "ALPH",
@@ -5348,13 +3248,6 @@
         "TOTAL_MKT_CAP_USD": 6633166.774686282
     },
     {
-        "SYMBOL": "HEART",
-        "URI": "heart",
-        "NAME": "Humans",
-        "LOGO": "/2168/1675782535656.png",
-        "TOTAL_MKT_CAP_USD": 6605185.486651955
-    },
-    {
         "SYMBOL": "MNSRY",
         "URI": "mansory",
         "NAME": "Mansory",
@@ -5383,18 +3276,25 @@
         "TOTAL_MKT_CAP_USD": 28191655.063227646
     },
     {
+        "SYMBOL": "HEART",
+        "URI": "heart",
+        "NAME": "Humans",
+        "LOGO": "/2168/1675782535656.png",
+        "TOTAL_MKT_CAP_USD": 6477800.172757735
+    },
+    {
         "SYMBOL": "ESE",
         "URI": "ese",
         "NAME": "Eesee",
         "LOGO": "/14470/1715181556560.png",
-        "TOTAL_MKT_CAP_USD": 6472573.0947467
+        "TOTAL_MKT_CAP_USD": 6472771.779320001
     },
     {
         "SYMBOL": "BULL",
         "URI": "bull",
         "NAME": "Bull",
         "LOGO": "/21912/1776933616918.png",
-        "TOTAL_MKT_CAP_USD": 6449790.850648668
+        "TOTAL_MKT_CAP_USD": 6449790.850648662
     },
     {
         "SYMBOL": "DADDY",
@@ -5600,6 +3500,706 @@
         "TOTAL_MKT_CAP_USD": 5692915.054000464
     },
     {
+        "SYMBOL": "TAKE",
+        "URI": "take",
+        "NAME": "TAKE",
+        "LOGO": "/20671/1756978751408.png",
+        "TOTAL_MKT_CAP_USD": 21004286.6048674
+    },
+    {
+        "SYMBOL": "CATECOIN",
+        "URI": "catecoin",
+        "NAME": "CateCoin",
+        "LOGO": "/1698/1674227721213.png",
+        "TOTAL_MKT_CAP_USD": 5857203.121291843
+    },
+    {
+        "SYMBOL": "NEXA",
+        "URI": "nexa",
+        "NAME": "Nexa",
+        "LOGO": "/2636/1678362315910.png",
+        "TOTAL_MKT_CAP_USD": 5562165.352444624
+    },
+    {
+        "SYMBOL": "DRB",
+        "URI": "debtreliefbot",
+        "NAME": "DebtReliefBot",
+        "LOGO": "/20506/1755517910541.png",
+        "TOTAL_MKT_CAP_USD": 5538982.28107024
+    },
+    {
+        "SYMBOL": "CXT",
+        "URI": "cxt",
+        "NAME": "Covalent X Token",
+        "LOGO": "/16012/1721921647649.png",
+        "TOTAL_MKT_CAP_USD": 5694645.35461774
+    },
+    {
+        "SYMBOL": "ACM",
+        "URI": "acm",
+        "NAME": "AC Milan Fan Token",
+        "LOGO": "/510/1669997567151.png",
+        "TOTAL_MKT_CAP_USD": 8080794.658183764
+    },
+    {
+        "SYMBOL": "MATH",
+        "URI": "math",
+        "NAME": "MATH",
+        "LOGO": "/660/1670336683490.png",
+        "TOTAL_MKT_CAP_USD": 6233849.54427798
+    },
+    {
+        "SYMBOL": "DIMO",
+        "URI": "dimo",
+        "NAME": "DIMO",
+        "LOGO": "/3036/1685028372361.png",
+        "TOTAL_MKT_CAP_USD": 10881145.4149825
+    },
+    {
+        "SYMBOL": "NAKA",
+        "URI": "naka",
+        "NAME": "Nakamoto Games",
+        "LOGO": "/1175/1672844802235.png",
+        "TOTAL_MKT_CAP_USD": 9955662.09218577
+    },
+    {
+        "SYMBOL": "XDOG",
+        "URI": "xdog",
+        "NAME": "XDOG",
+        "LOGO": "/21151/1763565736239.png",
+        "TOTAL_MKT_CAP_USD": 5358127.621022919
+    },
+    {
+        "SYMBOL": "KEYCAT",
+        "URI": "keycat",
+        "NAME": "Keyboard Cat",
+        "LOGO": "/13908/1713432807832.png",
+        "TOTAL_MKT_CAP_USD": 5348574.24202217
+    },
+    {
+        "SYMBOL": "DNT",
+        "URI": "district0x",
+        "NAME": "district0x",
+        "LOGO": "/671/1670338233516.png",
+        "TOTAL_MKT_CAP_USD": 8638152.36965671
+    },
+    {
+        "SYMBOL": "DIVI",
+        "URI": "divi",
+        "NAME": "Divi Project",
+        "LOGO": "/919/1671613005989.png",
+        "TOTAL_MKT_CAP_USD": 5134055.877360716
+    },
+    {
+        "SYMBOL": "SUKU",
+        "URI": "suku",
+        "NAME": "SUKU",
+        "LOGO": "/474/1674827626754.png",
+        "TOTAL_MKT_CAP_USD": 12800505.397995839
+    },
+    {
+        "SYMBOL": "PHB",
+        "URI": "phb",
+        "NAME": "Phoenix Global",
+        "LOGO": "/249/1732120493083.png",
+        "TOTAL_MKT_CAP_USD": 5121116.2781420695
+    },
+    {
+        "SYMBOL": "IWNON",
+        "URI": "ishares-russell-2000-value-etf-ondo-tokenized",
+        "NAME": "iShares Russell 2000 Value ETF (Ondo Tokenized)",
+        "LOGO": "/22022/1778074419865.png",
+        "TOTAL_MKT_CAP_USD": 5107318.9520517085
+    },
+    {
+        "SYMBOL": "ALU",
+        "URI": "alu",
+        "NAME": "Altura",
+        "LOGO": "/1332/1673368108997.png",
+        "TOTAL_MKT_CAP_USD": 6776398.774857057
+    },
+    {
+        "SYMBOL": "ZEUS",
+        "URI": "zeus",
+        "NAME": "Zeus Network",
+        "LOGO": "/13855/1713349029904.png",
+        "TOTAL_MKT_CAP_USD": 5423527.211847662
+    },
+    {
+        "SYMBOL": "OBT",
+        "URI": "orbiter-token",
+        "NAME": "Orbiter Token",
+        "LOGO": "/20996/1761910722608.png",
+        "TOTAL_MKT_CAP_USD": 9003539.159736471
+    },
+    {
+        "SYMBOL": "GODS",
+        "URI": "gods-unchained",
+        "NAME": "Gods Unchained",
+        "LOGO": "/131/1698056910318.png",
+        "TOTAL_MKT_CAP_USD": 17778701.834792897
+    },
+    {
+        "SYMBOL": "COINX",
+        "URI": "coinbase-xstock",
+        "NAME": "Coinbase xStock",
+        "LOGO": "/20083/1751370938204.png",
+        "TOTAL_MKT_CAP_USD": 128068971.02994289
+    },
+    {
+        "SYMBOL": "NERO",
+        "URI": "nero-chain",
+        "NAME": "NERO Chain",
+        "LOGO": "/20388/1754304094711.png",
+        "TOTAL_MKT_CAP_USD": 26996273.51962402
+    },
+    {
+        "SYMBOL": "TNSR",
+        "URI": "tnsr",
+        "NAME": "Tensor",
+        "LOGO": "/13552/1712648447303.png",
+        "TOTAL_MKT_CAP_USD": 30279478.019926954
+    },
+    {
+        "SYMBOL": "TQQQX",
+        "URI": "tqqq-xstock",
+        "NAME": "TQQQ xStock",
+        "LOGO": "/20133/1751467537323.png",
+        "TOTAL_MKT_CAP_USD": 296271595.23110026
+    },
+    {
+        "SYMBOL": "XAVA",
+        "URI": "xava",
+        "NAME": "Avalaunch",
+        "LOGO": "/991/1671782059601.png",
+        "TOTAL_MKT_CAP_USD": 0
+    },
+    {
+        "SYMBOL": "POLIS",
+        "URI": "star-atlas-dao",
+        "NAME": "Star Atlas DAO",
+        "LOGO": "/874/1671528831766.png",
+        "TOTAL_MKT_CAP_USD": 5066975.320238427
+    },
+    {
+        "SYMBOL": "VON",
+        "URI": "vameon",
+        "NAME": "Vameon",
+        "LOGO": "/19384/1745509139895.png",
+        "TOTAL_MKT_CAP_USD": 9861662.961564109
+    },
+    {
+        "SYMBOL": "SYS",
+        "URI": "syscoin",
+        "NAME": "Syscoin",
+        "LOGO": "/478/1669993512859.png",
+        "TOTAL_MKT_CAP_USD": 4755020.980478407
+    },
+    {
+        "SYMBOL": "EDEL",
+        "URI": "edel",
+        "NAME": "Edel",
+        "LOGO": "/21203/1764239825410.png",
+        "TOTAL_MKT_CAP_USD": 7805795.1762409005
+    },
+    {
+        "SYMBOL": "RETIRE",
+        "URI": "the-last-play",
+        "NAME": "The Last Play",
+        "LOGO": "/21704/1772103080648.png",
+        "TOTAL_MKT_CAP_USD": 4702294.760914091
+    },
+    {
+        "SYMBOL": "YEE",
+        "URI": "yee-token",
+        "NAME": "Yee Token",
+        "LOGO": "/21317/1766060147946.png",
+        "TOTAL_MKT_CAP_USD": 4694693.63998367
+    },
+    {
+        "SYMBOL": "QLINDO",
+        "URI": "qlindo",
+        "NAME": "QLINDO",
+        "LOGO": "/2278/1719220896579.png",
+        "TOTAL_MKT_CAP_USD": 4693502.19850458
+    },
+    {
+        "SYMBOL": "MSFTX",
+        "URI": "microsoft-xstock",
+        "NAME": "Microsoft xStock",
+        "LOGO": "/20114/1751452141240.png",
+        "TOTAL_MKT_CAP_USD": 74238735.41692366
+    },
+    {
+        "SYMBOL": "GEMS",
+        "URI": "gems",
+        "NAME": "Gems VIP",
+        "LOGO": "/16678/1724932854375.png",
+        "TOTAL_MKT_CAP_USD": 6103457.205780408
+    },
+    {
+        "SYMBOL": "NIETZSCHEAN",
+        "URI": "nietzschean-penguin",
+        "NAME": "Nietzschean Penguin",
+        "LOGO": "/21530/1769423307822.png",
+        "TOTAL_MKT_CAP_USD": 4681433.1149807535
+    },
+    {
+        "SYMBOL": "WEN",
+        "URI": "wen",
+        "NAME": "Wen",
+        "LOGO": "/11045/1716454794979.png",
+        "TOTAL_MKT_CAP_USD": 4661815.625065244
+    },
+    {
+        "SYMBOL": "AMZNX",
+        "URI": "amazon-xstocks",
+        "NAME": "Amazon xStock",
+        "LOGO": "/20067/1751362577174.png",
+        "TOTAL_MKT_CAP_USD": 99073885.35768968
+    },
+    {
+        "SYMBOL": "HOODX",
+        "URI": "robinhood-xstock",
+        "NAME": "Robinhood xStock",
+        "LOGO": "/20127/1751466422936.png",
+        "TOTAL_MKT_CAP_USD": 104337208.51900576
+    },
+    {
+        "SYMBOL": "BZZ",
+        "URI": "bzz",
+        "NAME": "Swarmv",
+        "LOGO": "/1007/1671798450621.png",
+        "TOTAL_MKT_CAP_USD": 4567297.744978914
+    },
+    {
+        "SYMBOL": "ATLAS",
+        "URI": "atlas",
+        "NAME": "Star Atlas",
+        "LOGO": "/946/1671634306125.png",
+        "TOTAL_MKT_CAP_USD": 6509249.295170077
+    },
+    {
+        "SYMBOL": "BITRUE",
+        "URI": "bitrue",
+        "NAME": "Bitrue Coin",
+        "LOGO": "/6768/1698777022405.png",
+        "TOTAL_MKT_CAP_USD": 9809037.026183661
+    },
+    {
+        "SYMBOL": "SPECT",
+        "URI": "spect",
+        "NAME": "Spectral",
+        "LOGO": "/14912/1716457707939.png",
+        "TOTAL_MKT_CAP_USD": 8222304.68590496
+    },
+    {
+        "SYMBOL": "RNBW",
+        "URI": "rnbw",
+        "NAME": "Rainbow",
+        "LOGO": "/21694/1771949830419.png",
+        "TOTAL_MKT_CAP_USD": 17852509.51077018
+    },
+    {
+        "SYMBOL": "LLYON",
+        "URI": "eli-lilly-ondo-tokenized",
+        "NAME": "Eli Lilly (Ondo Tokenized)",
+        "LOGO": "/22024/1778078078605.png",
+        "TOTAL_MKT_CAP_USD": 4329047.219314295
+    },
+    {
+        "SYMBOL": "OAS",
+        "URI": "oas",
+        "NAME": "Oasis City",
+        "LOGO": "/1818/1674563373510.png",
+        "TOTAL_MKT_CAP_USD": 6397129.483467086
+    },
+    {
+        "SYMBOL": "METAX",
+        "URI": "meta-xstock",
+        "NAME": "Meta xStock",
+        "LOGO": "/20226/1752233330224.png",
+        "TOTAL_MKT_CAP_USD": 96374124.98006645
+    },
+    {
+        "SYMBOL": "GME",
+        "URI": "gme",
+        "NAME": "GameStop (wallstsucks.lol)",
+        "LOGO": "/15277/1718702931691.png",
+        "TOTAL_MKT_CAP_USD": 4287926.199949013
+    },
+    {
+        "SYMBOL": "AZERO",
+        "URI": "azero",
+        "NAME": "Aleph Zero",
+        "LOGO": "/1642/1674125737904.png",
+        "TOTAL_MKT_CAP_USD": 0
+    },
+    {
+        "SYMBOL": "DENT",
+        "URI": "dent",
+        "NAME": "Dent",
+        "LOGO": "/335/1733312827744.png",
+        "TOTAL_MKT_CAP_USD": 4244462.537846185
+    },
+    {
+        "SYMBOL": "SOLX",
+        "URI": "solaxy",
+        "NAME": "Solaxy",
+        "LOGO": "/21702/1772100960874.png",
+        "TOTAL_MKT_CAP_USD": 4209692.7144596595
+    },
+    {
+        "SYMBOL": "BROCCO",
+        "URI": "brocco",
+        "NAME": "Broccoli (firstbroccoli.com)",
+        "LOGO": "/18853/1740739060161.png",
+        "TOTAL_MKT_CAP_USD": 4208493.69073947
+    },
+    {
+        "SYMBOL": "CLOUD",
+        "URI": "cloud",
+        "NAME": "Cloud",
+        "LOGO": "/17259/1727966039618.png",
+        "TOTAL_MKT_CAP_USD": 20030212.758523002
+    },
+    {
+        "SYMBOL": "BLD",
+        "URI": "bld",
+        "NAME": "Agoric",
+        "LOGO": "/884/1671533932866.png",
+        "TOTAL_MKT_CAP_USD": 6449217.477587505
+    },
+    {
+        "SYMBOL": "SWAP",
+        "URI": "swap",
+        "NAME": "Trustswap",
+        "LOGO": "/796/1670862921752.png",
+        "TOTAL_MKT_CAP_USD": 5300009.322196477
+    },
+    {
+        "SYMBOL": "67",
+        "URI": "the-official-67-coin",
+        "NAME": "The Official 67 Coin",
+        "LOGO": "/21068/1762780756893.png",
+        "TOTAL_MKT_CAP_USD": 4152031.877769479
+    },
+    {
+        "SYMBOL": "KOMA",
+        "URI": "koma",
+        "NAME": "Koma Inu (komabnb.com)",
+        "LOGO": "/17356/1728637899421.png",
+        "TOTAL_MKT_CAP_USD": 4124650.746330021
+    },
+    {
+        "SYMBOL": "DPI",
+        "URI": "dpi",
+        "NAME": "DeFiPulse Index",
+        "LOGO": "/664/1670337277395.png",
+        "TOTAL_MKT_CAP_USD": 4121785.904767067
+    },
+    {
+        "SYMBOL": "SEND",
+        "URI": "send",
+        "NAME": "Suilend",
+        "LOGO": "/18470/1738253144966.png",
+        "TOTAL_MKT_CAP_USD": 8314791.48455177
+    },
+    {
+        "SYMBOL": "LMTON",
+        "URI": "lockheed-ondo-tokenized",
+        "NAME": "Lockheed (Ondo Tokenized)",
+        "LOGO": "/21928/1777024917057.png",
+        "TOTAL_MKT_CAP_USD": 3924477.427981313
+    },
+    {
+        "SYMBOL": "NUM",
+        "URI": "num",
+        "NAME": "Numbers Protocol",
+        "LOGO": "/1173/1672843933673.png",
+        "TOTAL_MKT_CAP_USD": 3870109.039352617
+    },
+    {
+        "SYMBOL": "BAL",
+        "URI": "balancer",
+        "NAME": "Balancer",
+        "LOGO": "/368/1726047527279.png",
+        "TOTAL_MKT_CAP_USD": 10601631.771741066
+    },
+    {
+        "SYMBOL": "SUPERFL",
+        "URI": "superfluid",
+        "NAME": "Superfluid",
+        "LOGO": "/21647/1770821332278.png",
+        "TOTAL_MKT_CAP_USD": 13252440.751609199
+    },
+    {
+        "SYMBOL": "BIFI",
+        "URI": "bifi",
+        "NAME": "Beefy",
+        "LOGO": "/551/1670251909455.png",
+        "TOTAL_MKT_CAP_USD": 3785644.352477344
+    },
+    {
+        "SYMBOL": "BABAON",
+        "URI": "alibaba-ondo-tokenized",
+        "NAME": "Alibaba (Ondo Tokenized)",
+        "LOGO": "/22026/1778079525768.png",
+        "TOTAL_MKT_CAP_USD": 3783603.316820811
+    },
+    {
+        "SYMBOL": "VAL",
+        "URI": "val",
+        "NAME": "Validity",
+        "LOGO": "/466/1669991433010.png",
+        "TOTAL_MKT_CAP_USD": 3759114.4770304067
+    },
+    {
+        "SYMBOL": "ZAI",
+        "URI": "zen-ai",
+        "NAME": "Zen AI",
+        "LOGO": "/19733/1748510171633.png",
+        "TOTAL_MKT_CAP_USD": 3730914.1256958903
+    },
+    {
+        "SYMBOL": "KOON",
+        "URI": "coca-cola-ondo-tokenized",
+        "NAME": "Coca-Cola (Ondo Tokenized)",
+        "LOGO": "/21929/1777029694286.png",
+        "TOTAL_MKT_CAP_USD": 3704799.225814376
+    },
+    {
+        "SYMBOL": "MAXXING",
+        "URI": "maxxing",
+        "NAME": "Maxxing",
+        "LOGO": "/21860/1776244602173.png",
+        "TOTAL_MKT_CAP_USD": 3667991.665058303
+    },
+    {
+        "SYMBOL": "GHST",
+        "URI": "aavegotchi",
+        "NAME": "Aavegotchi",
+        "LOGO": "/178/1664358608077.png",
+        "TOTAL_MKT_CAP_USD": 3655042.5890664966
+    },
+    {
+        "SYMBOL": "GIZA",
+        "URI": "giza",
+        "NAME": "Giza",
+        "LOGO": "/19766/1748600786441.png",
+        "TOTAL_MKT_CAP_USD": 10750130.4442683
+    },
+    {
+        "SYMBOL": "NAV",
+        "URI": "nav",
+        "NAME": "NavCoin",
+        "LOGO": "/1428/1673530754542.png",
+        "TOTAL_MKT_CAP_USD": 3569665.200331816
+    },
+    {
+        "SYMBOL": "VOLT",
+        "URI": "volt",
+        "NAME": "Volt Inu",
+        "LOGO": "/898/1671545088048.png",
+        "TOTAL_MKT_CAP_USD": 8634840.399685767
+    },
+    {
+        "SYMBOL": "MDT",
+        "URI": "measurable-data-token",
+        "NAME": "Measurable Data Token",
+        "LOGO": "/273/1666019677934.png",
+        "TOTAL_MKT_CAP_USD": 3514328.27755525
+    },
+    {
+        "SYMBOL": "XMN",
+        "URI": "xmoney",
+        "NAME": "xMoney",
+        "LOGO": "/21134/1763394148495.png",
+        "TOTAL_MKT_CAP_USD": 29657449.860737603
+    },
+    {
+        "SYMBOL": "ROLL",
+        "URI": "roll",
+        "NAME": "Roll",
+        "LOGO": "/21466/1768569479876.png",
+        "TOTAL_MKT_CAP_USD": 22505772.9810016
+    },
+    {
+        "SYMBOL": "AIXDROP",
+        "URI": "aixdrop",
+        "NAME": "AIXDROP",
+        "LOGO": "/21673/1771411480824.png",
+        "TOTAL_MKT_CAP_USD": 3454687.7870622985
+    },
+    {
+        "SYMBOL": "ARMON",
+        "URI": "arm-holdings-plc-tokenized-stock-ondo",
+        "NAME": "Arm Holdings plc Tokenized Stock (Ondo)",
+        "LOGO": "/22023/1778074966165.png",
+        "TOTAL_MKT_CAP_USD": 3427669.333273596
+    },
+    {
+        "SYMBOL": "ASMLON",
+        "URI": "asml-holding-nv-ondo-tokenized",
+        "NAME": "ASML Holding NV (Ondo Tokenized)",
+        "LOGO": "/22037/1778153181145.png",
+        "TOTAL_MKT_CAP_USD": 3387011.040629347
+    },
+    {
+        "SYMBOL": "REN",
+        "URI": "ren",
+        "NAME": "REN",
+        "LOGO": "/461/1724686951218.png",
+        "TOTAL_MKT_CAP_USD": 3361061.6573708304
+    },
+    {
+        "SYMBOL": "BID",
+        "URI": "creatorbid",
+        "NAME": "CreatorBid",
+        "LOGO": "/20036/1750951503159.png",
+        "TOTAL_MKT_CAP_USD": 8699821.850743372
+    },
+    {
+        "SYMBOL": "SNS",
+        "URI": "solana-name-service",
+        "NAME": "Solana Name Service",
+        "LOGO": "/21459/1768561177095.png",
+        "TOTAL_MKT_CAP_USD": 13330614.935162392
+    },
+    {
+        "SYMBOL": "STAY",
+        "URI": "stay",
+        "NAME": "STAY",
+        "LOGO": "/22033/1778148297368.png",
+        "TOTAL_MKT_CAP_USD": 3329745.17256653
+    },
+    {
+        "SYMBOL": "AVGOON",
+        "URI": "broadcom-ondo-tokenized",
+        "NAME": "Broadcom (Ondo Tokenized)",
+        "LOGO": "/22027/1778080556344.png",
+        "TOTAL_MKT_CAP_USD": 3304844.4225268518
+    },
+    {
+        "SYMBOL": "NACHO",
+        "URI": "nacho",
+        "NAME": "Nacho the 𐤊at",
+        "LOGO": "/16961/1726671928947.png",
+        "TOTAL_MKT_CAP_USD": 3258973.272986146
+    },
+    {
+        "SYMBOL": "HOUSE",
+        "URI": "housecoin",
+        "NAME": "Housecoin",
+        "LOGO": "/19512/1746706578260.png",
+        "TOTAL_MKT_CAP_USD": 3255791.6275406033
+    },
+    {
+        "SYMBOL": "NMT",
+        "URI": "nmt",
+        "NAME": "NetMind Token",
+        "LOGO": "/15060/1717144129104.png",
+        "TOTAL_MKT_CAP_USD": 7742357.103816151
+    },
+    {
+        "SYMBOL": "BOSON",
+        "URI": "boson",
+        "NAME": "Boson Protocol",
+        "LOGO": "/540/1675352446424.png",
+        "TOTAL_MKT_CAP_USD": 5994180.39492274
+    },
+    {
+        "SYMBOL": "401JK",
+        "URI": "401jk",
+        "NAME": "401jk",
+        "LOGO": "/21185/1764068096606.png",
+        "TOTAL_MKT_CAP_USD": 3184181.002983375
+    },
+    {
+        "SYMBOL": "VFY",
+        "URI": "zkverify",
+        "NAME": "zkVerify",
+        "LOGO": "/20903/1760699467142.png",
+        "TOTAL_MKT_CAP_USD": 8945389.61157207
+    },
+    {
+        "SYMBOL": "UOS",
+        "URI": "uos",
+        "NAME": "UOS",
+        "LOGO": "/6711/1698776987437.png",
+        "TOTAL_MKT_CAP_USD": 0
+    },
+    {
+        "SYMBOL": "PIN",
+        "URI": "pin",
+        "NAME": "PinLink",
+        "LOGO": "/18591/1739276476332.png",
+        "TOTAL_MKT_CAP_USD": 4670065.43715256
+    },
+    {
+        "SYMBOL": "KDA",
+        "URI": "kadena",
+        "NAME": "Kadena",
+        "LOGO": "/192/1664376333673.png",
+        "TOTAL_MKT_CAP_USD": 3146772.5661607753
+    },
+    {
+        "SYMBOL": "CEEK",
+        "URI": "ceek",
+        "NAME": "CEEK Smart VR Token",
+        "LOGO": "/866/1671469546026.png",
+        "TOTAL_MKT_CAP_USD": 3095397.59303327
+    },
+    {
+        "SYMBOL": "FORTH",
+        "URI": "ampleforth-governance",
+        "NAME": "Ampleforth Governance Token",
+        "LOGO": "/534/1670248191312.png",
+        "TOTAL_MKT_CAP_USD": 3721276.39139656
+    },
+    {
+        "SYMBOL": "CSCOON",
+        "URI": "cisco-systems-ondo-tokenized",
+        "NAME": "Cisco Systems (Ondo Tokenized)",
+        "LOGO": "/22043/1778161264747.png",
+        "TOTAL_MKT_CAP_USD": 3074018.0271164887
+    },
+    {
+        "SYMBOL": "MYRO",
+        "URI": "myro",
+        "NAME": "Myro",
+        "LOGO": "/10497/1705655442291.png",
+        "TOTAL_MKT_CAP_USD": 3058973.6926606786
+    },
+    {
+        "SYMBOL": "NTX",
+        "URI": "ntx",
+        "NAME": "NuNet",
+        "LOGO": "/9653/1698780039888.png",
+        "TOTAL_MKT_CAP_USD": 3518113.9691490596
+    },
+    {
+        "SYMBOL": "FOXSY",
+        "URI": "foxsy",
+        "NAME": "Foxsy AI",
+        "LOGO": "/14771/1715940769186.png",
+        "TOTAL_MKT_CAP_USD": 5135550.943131953
+    },
+    {
+        "SYMBOL": "BRN",
+        "URI": "brn",
+        "NAME": "BRN Metaverse",
+        "LOGO": "/2471/1677667244161.png",
+        "TOTAL_MKT_CAP_USD": 3042124.9877849445
+    },
+    {
+        "SYMBOL": "AIDOGE",
+        "URI": "aidoge",
+        "NAME": "ArbDoge AI",
+        "LOGO": "/10469/1705074346497.png",
+        "TOTAL_MKT_CAP_USD": 3032806.4534291
+    },
+    {
         "SYMBOL": "QUQ",
         "URI": "quq",
         "NAME": "quq",
@@ -5803,18 +4403,18 @@
         "TOTAL_MKT_CAP_USD": 27326788.4577673
     },
     {
+        "SYMBOL": "JPMON",
+        "URI": "jpmorgan-chase-ondo-tokenized",
+        "NAME": "JPMorgan Chase (Ondo Tokenized)",
+        "LOGO": "/22039/1778159321678.png",
+        "TOTAL_MKT_CAP_USD": 2576439.7788252654
+    },
+    {
         "SYMBOL": "PROPS",
         "URI": "props",
         "NAME": "Propbase",
         "LOGO": "/15266/1718637184923.png",
         "TOTAL_MKT_CAP_USD": 6409891.23143904
-    },
-    {
-        "SYMBOL": "JPMON",
-        "URI": "jpmorgan-chase-ondo-tokenized",
-        "NAME": "JPMorgan Chase (Ondo Tokenized)",
-        "LOGO": "/22039/1778159321678.png",
-        "TOTAL_MKT_CAP_USD": 2574557.3835622314
     },
     {
         "SYMBOL": "NOWON",
@@ -5975,7 +4575,7 @@
         "URI": "xen-crypto",
         "NAME": "XEN Crypto",
         "LOGO": "/1696/1674226738620.png",
-        "TOTAL_MKT_CAP_USD": 2278829.0236495333
+        "TOTAL_MKT_CAP_USD": 2279990.613107646
     },
     {
         "SYMBOL": "EWYON",
@@ -5996,14 +4596,14 @@
         "URI": "lky",
         "NAME": "LuckyCoin",
         "LOGO": "/3421/1698758424238.png",
-        "TOTAL_MKT_CAP_USD": 2190899.009197768
+        "TOTAL_MKT_CAP_USD": 2190911.9208096014
     },
     {
         "SYMBOL": "HTR",
         "URI": "htr",
         "NAME": "Hathor",
         "LOGO": "/507/1669997152363.png",
-        "TOTAL_MKT_CAP_USD": 3973652.948448561
+        "TOTAL_MKT_CAP_USD": 3973656.446952559
     },
     {
         "SYMBOL": "SBUXON",
@@ -6108,7 +4708,7 @@
         "URI": "jeff",
         "NAME": "JEFF",
         "LOGO": "/20385/1754295858380.png",
-        "TOTAL_MKT_CAP_USD": 2008662.2545758423
+        "TOTAL_MKT_CAP_USD": 2008662.0200689053
     },
     {
         "SYMBOL": "VITARNA",
@@ -6122,7 +4722,7 @@
         "URI": "lol",
         "NAME": "LOL (lolonsol.lol)",
         "LOGO": "/21847/1776092409952.png",
-        "TOTAL_MKT_CAP_USD": 1992495.350488019
+        "TOTAL_MKT_CAP_USD": 1992495.350481156
     },
     {
         "SYMBOL": "DOGEGOV",
@@ -6192,7 +4792,7 @@
         "URI": "xelis",
         "NAME": "XELIS",
         "LOGO": "/21312/1766054551617.png",
-        "TOTAL_MKT_CAP_USD": 1898915.5930189576
+        "TOTAL_MKT_CAP_USD": 1899003.9951316225
     },
     {
         "SYMBOL": "BENJI",
@@ -6346,7 +4946,7 @@
         "URI": "cheq",
         "NAME": "CHEQD Network",
         "LOGO": "/1913/1675160202513.png",
-        "TOTAL_MKT_CAP_USD": 2089213.8998669088
+        "TOTAL_MKT_CAP_USD": 2089221.522952735
     },
     {
         "SYMBOL": "FIR",
@@ -6423,7 +5023,7 @@
         "URI": "xprt",
         "NAME": "Persistence",
         "LOGO": "/463/1669990862590.png",
-        "TOTAL_MKT_CAP_USD": 1594058.2459963798
+        "TOTAL_MKT_CAP_USD": 1594079.3856818206
     },
     {
         "SYMBOL": "BULLISH",
@@ -6465,7 +5065,7 @@
         "URI": "ml",
         "NAME": "Mintlayer",
         "LOGO": "/15128/1717589078934.png",
-        "TOTAL_MKT_CAP_USD": 3395763.702792221
+        "TOTAL_MKT_CAP_USD": 3395798.1585500073
     },
     {
         "SYMBOL": "EMDR",
@@ -6549,7 +5149,7 @@
         "URI": "vsys",
         "NAME": "V Systems",
         "LOGO": "/589/1670267101184.png",
-        "TOTAL_MKT_CAP_USD": 1806696.7393425375
+        "TOTAL_MKT_CAP_USD": 1806704.149623203
     },
     {
         "SYMBOL": "MOUNTA",
@@ -6626,7 +5226,7 @@
         "URI": "nrg",
         "NAME": "Energi",
         "LOGO": "/45/1663063630922.png",
-        "TOTAL_MKT_CAP_USD": 1290796.5230382113
+        "TOTAL_MKT_CAP_USD": 1290858.5138033472
     },
     {
         "SYMBOL": "TTN",
@@ -6654,7 +5254,7 @@
         "URI": "rizzmas",
         "NAME": "Rizzmas",
         "LOGO": "/18123/1732894548654.png",
-        "TOTAL_MKT_CAP_USD": 1252490.030749827
+        "TOTAL_MKT_CAP_USD": 1252489.926404954
     },
     {
         "SYMBOL": "COHRON",
@@ -6710,7 +5310,7 @@
         "URI": "btc2",
         "NAME": "Bitcoin 2",
         "LOGO": "/1136/1672758154728.png",
-        "TOTAL_MKT_CAP_USD": 1216358.9657194861
+        "TOTAL_MKT_CAP_USD": 1216360.021151725
     },
     {
         "SYMBOL": "AU79",
@@ -6738,7 +5338,7 @@
         "URI": "bnc",
         "NAME": "Bifrost Native Coin",
         "LOGO": "/1551/1701357776935.png",
-        "TOTAL_MKT_CAP_USD": 1462695.231220653
+        "TOTAL_MKT_CAP_USD": 1462695.21233527
     },
     {
         "SYMBOL": "MOTHER",
@@ -6780,7 +5380,7 @@
         "URI": "jd-com-ondo-tokenized",
         "NAME": "JD.com (Ondo Tokenized)",
         "LOGO": "/22067/1778497072292.png",
-        "TOTAL_MKT_CAP_USD": 1174868.6748493419
+        "TOTAL_MKT_CAP_USD": 1175039.8126220808
     },
     {
         "SYMBOL": "ABNBON",
@@ -6850,7 +5450,7 @@
         "URI": "nkn",
         "NAME": "NKN",
         "LOGO": "/499/1669995797205.png",
-        "TOTAL_MKT_CAP_USD": 5990694.764872863
+        "TOTAL_MKT_CAP_USD": 5990704.916643037
     },
     {
         "SYMBOL": "MONPRO",
@@ -6920,7 +5520,7 @@
         "URI": "accenture-ondo-tokenized",
         "NAME": "Accenture (Ondo Tokenized)",
         "LOGO": "/22068/1778497897357.png",
-        "TOTAL_MKT_CAP_USD": 977864.1892669963
+        "TOTAL_MKT_CAP_USD": 978355.936979011
     },
     {
         "SYMBOL": "ALPHA",
@@ -6965,6 +5565,13 @@
         "TOTAL_MKT_CAP_USD": 929515.3293325565
     },
     {
+        "SYMBOL": "BITCORE",
+        "URI": "bitcore",
+        "NAME": "BitCore",
+        "LOGO": "/2096/1675683393024.png",
+        "TOTAL_MKT_CAP_USD": 921787.4113905004
+    },
+    {
         "SYMBOL": "RFRM",
         "URI": "rfrm",
         "NAME": "Reform DAO",
@@ -6998,13 +5605,6 @@
         "NAME": "老子",
         "LOGO": "/21602/1770113961556.png",
         "TOTAL_MKT_CAP_USD": 899407.6025840088
-    },
-    {
-        "SYMBOL": "BITCORE",
-        "URI": "bitcore",
-        "NAME": "BitCore",
-        "LOGO": "/2096/1675683393024.png",
-        "TOTAL_MKT_CAP_USD": 891932.3731316854
     },
     {
         "SYMBOL": "ABYSS",
@@ -7067,14 +5667,14 @@
         "URI": "salvium",
         "NAME": "Salvium",
         "LOGO": "/20904/1760701035282.png",
-        "TOTAL_MKT_CAP_USD": 808130.8419880184
+        "TOTAL_MKT_CAP_USD": 808696.4865346856
     },
     {
         "SYMBOL": "DFDVX",
         "URI": "dfdv-xstock",
         "NAME": "DFDV xStock",
         "LOGO": "/20088/1751380812458.png",
-        "TOTAL_MKT_CAP_USD": 72217500.7330015
+        "TOTAL_MKT_CAP_USD": 72217500.69220793
     },
     {
         "SYMBOL": "BOS",
@@ -7130,7 +5730,7 @@
         "URI": "man",
         "NAME": "Matrix AI Network",
         "LOGO": "/424/1679927153812.png",
-        "TOTAL_MKT_CAP_USD": 1390225.1356543265
+        "TOTAL_MKT_CAP_USD": 1390236.6007272697
     },
     {
         "SYMBOL": "RING",
@@ -7189,13 +5789,6 @@
         "TOTAL_MKT_CAP_USD": 1036246.158462276
     },
     {
-        "SYMBOL": "GXE",
-        "URI": "gxe",
-        "NAME": "XENO Governance",
-        "LOGO": "/2373/1677151086802.png",
-        "TOTAL_MKT_CAP_USD": 718048.4270243855
-    },
-    {
         "SYMBOL": "GRPH",
         "URI": "soul-graph",
         "NAME": "Soul Graph",
@@ -7208,6 +5801,13 @@
         "NAME": "jesse (jesse.xyz)",
         "LOGO": "/21301/1765969133007.png",
         "TOTAL_MKT_CAP_USD": 1294868.55584991
+    },
+    {
+        "SYMBOL": "GXE",
+        "URI": "gxe",
+        "NAME": "XENO Governance",
+        "LOGO": "/2373/1677151086802.png",
+        "TOTAL_MKT_CAP_USD": 703095.8198723905
     },
     {
         "SYMBOL": "WUM",
@@ -7312,7 +5912,7 @@
         "URI": "ntrn",
         "NAME": "Neutron",
         "LOGO": "/3286/1698328299198.png",
-        "TOTAL_MKT_CAP_USD": 1109732.4456191657
+        "TOTAL_MKT_CAP_USD": 1109755.9684748645
     },
     {
         "SYMBOL": "BUTTHOLE",
@@ -7333,7 +5933,7 @@
         "URI": "fio",
         "NAME": "FIO Protocol",
         "LOGO": "/646/1670333527390.png",
-        "TOTAL_MKT_CAP_USD": 591847.5703505757
+        "TOTAL_MKT_CAP_USD": 591851.715086449
     },
     {
         "SYMBOL": "SHOPON",
@@ -7627,7 +6227,7 @@
         "URI": "skate",
         "NAME": "Skate",
         "LOGO": "/19885/1749482729551.png",
-        "TOTAL_MKT_CAP_USD": 1971091.3786750918
+        "TOTAL_MKT_CAP_USD": 1971156.176558603
     },
     {
         "SYMBOL": "DOYR",
@@ -7641,7 +6241,7 @@
         "URI": "ctxc",
         "NAME": "Cortex",
         "LOGO": "/689/1671196387149.png",
-        "TOTAL_MKT_CAP_USD": 333196.566396391
+        "TOTAL_MKT_CAP_USD": 333197.549796904
     },
     {
         "SYMBOL": "DONKEY",
@@ -7753,7 +6353,7 @@
         "URI": "ame",
         "NAME": "AME Chain",
         "LOGO": "/2426/1677576691229.png",
-        "TOTAL_MKT_CAP_USD": 269359.51784762397
+        "TOTAL_MKT_CAP_USD": 266355.280589931
     },
     {
         "SYMBOL": "TUTC",
@@ -8026,7 +6626,7 @@
         "URI": "yala-token",
         "NAME": "Yala Token",
         "LOGO": "/20604/1762507114718.png",
-        "TOTAL_MKT_CAP_USD": 360513.574810471
+        "TOTAL_MKT_CAP_USD": 360700.57447794324
     },
     {
         "SYMBOL": "CLIPPY",
@@ -8145,7 +6745,7 @@
         "URI": "satox",
         "NAME": "Satoxcoin",
         "LOGO": "/10475/1705315212632.png",
-        "TOTAL_MKT_CAP_USD": 42112.52401788707
+        "TOTAL_MKT_CAP_USD": 42112.76505702204
     },
     {
         "SYMBOL": "EWJON",
@@ -8572,7 +7172,7 @@
         "URI": "xwc",
         "NAME": "WhiteCoin",
         "LOGO": "/914/1671553564810.png",
-        "TOTAL_MKT_CAP_USD": 6723438.836153794
+        "TOTAL_MKT_CAP_USD": 6723440.78339818
     },
     {
         "SYMBOL": "BCHA",
@@ -8684,7 +7284,7 @@
         "URI": "xrune",
         "NAME": "Thorstarter",
         "LOGO": "/8732/1698779285696.png",
-        "TOTAL_MKT_CAP_USD": 40060.291132480925
+        "TOTAL_MKT_CAP_USD": 40064.81665033756
     },
     {
         "SYMBOL": "BFC",
@@ -9202,7 +7802,7 @@
         "URI": "xna",
         "NAME": "Neurai",
         "LOGO": "/3624/1702460457402.png",
-        "TOTAL_MKT_CAP_USD": 744734.201552409
+        "TOTAL_MKT_CAP_USD": 744744.350760701
     },
     {
         "SYMBOL": "HEZ",
@@ -9314,7 +7914,7 @@
         "URI": "impt",
         "NAME": "IMPT",
         "LOGO": "/3070/1686903387858.png",
-        "TOTAL_MKT_CAP_USD": 4036959.476950075
+        "TOTAL_MKT_CAP_USD": 4036954.3213593964
     },
     {
         "SYMBOL": "CTP",
@@ -9363,7 +7963,7 @@
         "URI": "octa",
         "NAME": "OctaSpace",
         "LOGO": "/3006/1683301645770.png",
-        "TOTAL_MKT_CAP_USD": 4091710.2363494067
+        "TOTAL_MKT_CAP_USD": 4091738.887156041
     },
     {
         "SYMBOL": "METADIUM",
@@ -9440,7 +8040,7 @@
         "URI": "smty",
         "NAME": "Smoothy",
         "LOGO": "/2472/1677668449515.png",
-        "TOTAL_MKT_CAP_USD": 26696.654178732126
+        "TOTAL_MKT_CAP_USD": 26696.691435142635
     },
     {
         "SYMBOL": "VERA",
@@ -9545,7 +8145,7 @@
         "URI": "dbx",
         "NAME": "DBX",
         "LOGO": "/2201/1675850684790.png",
-        "TOTAL_MKT_CAP_USD": 26737.44750176708
+        "TOTAL_MKT_CAP_USD": 26033.775833212716
     },
     {
         "SYMBOL": "ETNON",
@@ -9583,6 +8183,13 @@
         "TOTAL_MKT_CAP_USD": 6970272.408913259
     },
     {
+        "SYMBOL": "DIGIMONRABBIT",
+        "URI": "digimonrabbit",
+        "NAME": "Digimon Rabbit",
+        "LOGO": "/2199/1675849481393.png",
+        "TOTAL_MKT_CAP_USD": 847877.9383202086
+    },
+    {
         "SYMBOL": "BERRY",
         "URI": "strawberry-ai",
         "NAME": "Strawberry AI",
@@ -9601,7 +8208,7 @@
         "URI": "wbx",
         "NAME": "WiBX",
         "LOGO": "/2197/1675848000004.png",
-        "TOTAL_MKT_CAP_USD": 9020039.527293928
+        "TOTAL_MKT_CAP_USD": 9018086.991787495
     },
     {
         "SYMBOL": "RKLBON",
@@ -9650,7 +8257,7 @@
         "URI": "credi",
         "NAME": "Credefi",
         "LOGO": "/2191/1675846569153.png",
-        "TOTAL_MKT_CAP_USD": 1139035.6969407725
+        "TOTAL_MKT_CAP_USD": 1213244.4876158831
     },
     {
         "SYMBOL": "NBISON",
@@ -9734,7 +8341,7 @@
         "URI": "shido",
         "NAME": "Shido",
         "LOGO": "/2185/1675845473224.png",
-        "TOTAL_MKT_CAP_USD": 7780907.833109037
+        "TOTAL_MKT_CAP_USD": 7804417.197821413
     },
     {
         "SYMBOL": "BASED",
@@ -9811,7 +8418,7 @@
         "URI": "openusdt",
         "NAME": "OpenUSDT",
         "LOGO": "/21818/1774348229261.png",
-        "TOTAL_MKT_CAP_USD": 803640.7109953099
+        "TOTAL_MKT_CAP_USD": 803589.8835351171
     },
     {
         "SYMBOL": "KIMCH",
@@ -10014,7 +8621,7 @@
         "URI": "mova",
         "NAME": "MOVA",
         "LOGO": "/21712/1772192255278.png",
-        "TOTAL_MKT_CAP_USD": 75383708.50238778
+        "TOTAL_MKT_CAP_USD": 75383708.42661715
     },
     {
         "SYMBOL": "KIMCHI",
@@ -10063,7 +8670,7 @@
         "URI": "the-big-trout",
         "NAME": "The Big Trout",
         "LOGO": "/21663/1771237518638.png",
-        "TOTAL_MKT_CAP_USD": 222329.14024715192
+        "TOTAL_MKT_CAP_USD": 222329.12432854876
     },
     {
         "SYMBOL": "AGUSTO",
@@ -10105,7 +8712,7 @@
         "URI": "cweb",
         "NAME": "Coinweb",
         "LOGO": "/2164/1675780370588.png",
-        "TOTAL_MKT_CAP_USD": 10176031.038422192
+        "TOTAL_MKT_CAP_USD": 10105360.040618524
     },
     {
         "SYMBOL": "QONE",
@@ -10273,7 +8880,7 @@
         "URI": "fort-token",
         "NAME": "FORT Token",
         "LOGO": "/21571/1769611412792.png",
-        "TOTAL_MKT_CAP_USD": 16865295.425141387
+        "TOTAL_MKT_CAP_USD": 16865294.45625984
     },
     {
         "SYMBOL": "USAT",
@@ -10399,7 +9006,7 @@
         "URI": "trade",
         "NAME": "Polytrade",
         "LOGO": "/2151/1675771949292.png",
-        "TOTAL_MKT_CAP_USD": 4000316.51316393
+        "TOTAL_MKT_CAP_USD": 4039380.93642877
     },
     {
         "SYMBOL": "VEREM",
@@ -10448,7 +9055,7 @@
         "URI": "lokr",
         "NAME": "Lokr",
         "LOGO": "/2148/1675770262698.png",
-        "TOTAL_MKT_CAP_USD": 77359.7598904887
+        "TOTAL_MKT_CAP_USD": 76258.97273961871
     },
     {
         "SYMBOL": "AAPLON",
@@ -10756,7 +9363,7 @@
         "URI": "rize",
         "NAME": "RIZE",
         "LOGO": "/21319/1766067719545.png",
-        "TOTAL_MKT_CAP_USD": 15197984.655334014
+        "TOTAL_MKT_CAP_USD": 15197748.383749232
     },
     {
         "SYMBOL": "TEA",
@@ -10812,7 +9419,7 @@
         "URI": "cysic",
         "NAME": "Cysic",
         "LOGO": "/21282/1765799806824.png",
-        "TOTAL_MKT_CAP_USD": 302685340.21131873
+        "TOTAL_MKT_CAP_USD": 302685429.0012211
     },
     {
         "SYMBOL": "GUA",
@@ -10847,7 +9454,7 @@
         "URI": "wam",
         "NAME": "Wam",
         "LOGO": "/2123/1675761915364.png",
-        "TOTAL_MKT_CAP_USD": 1220195.31426938
+        "TOTAL_MKT_CAP_USD": 1227713.25054541
     },
     {
         "SYMBOL": "DIGI",
@@ -10875,7 +9482,7 @@
         "URI": "ark-defai",
         "NAME": "ARK",
         "LOGO": "/21211/1764326933665.png",
-        "TOTAL_MKT_CAP_USD": 375874987.6191251
+        "TOTAL_MKT_CAP_USD": 375874625.17072034
     },
     {
         "SYMBOL": "PORT3V2",
@@ -10938,7 +9545,7 @@
         "URI": "orizon",
         "NAME": "Orizon",
         "LOGO": "/21163/1763719658408.png",
-        "TOTAL_MKT_CAP_USD": 28474018.590124194
+        "TOTAL_MKT_CAP_USD": 28473989.6739488
     },
     {
         "SYMBOL": "PIGGY",
@@ -11085,7 +9692,7 @@
         "URI": "phnix",
         "NAME": "Phoenix",
         "LOGO": "/21073/1762784389417.png",
-        "TOTAL_MKT_CAP_USD": 11860961.287783619
+        "TOTAL_MKT_CAP_USD": 11860961.282602914
     },
     {
         "SYMBOL": "VULT",
@@ -11106,7 +9713,7 @@
         "URI": "han",
         "NAME": "HanChain",
         "LOGO": "/2107/1675695494313.png",
-        "TOTAL_MKT_CAP_USD": 342401.5788082215
+        "TOTAL_MKT_CAP_USD": 346405.4166839835
     },
     {
         "SYMBOL": "FOREST",
@@ -11736,7 +10343,7 @@
         "URI": "mdao",
         "NAME": "MarsDAO",
         "LOGO": "/2075/1675676638443.png",
-        "TOTAL_MKT_CAP_USD": 8198792.352359125
+        "TOTAL_MKT_CAP_USD": 8416675.876606613
     },
     {
         "SYMBOL": "SYND",
@@ -11848,7 +10455,7 @@
         "URI": "giant-token",
         "NAME": "Giant Token",
         "LOGO": "/20636/1756466703322.png",
-        "TOTAL_MKT_CAP_USD": 1970695.9477356267
+        "TOTAL_MKT_CAP_USD": 1970694.3539411714
     },
     {
         "SYMBOL": "AKE",
@@ -11891,706 +10498,6 @@
         "NAME": "Infinity Ground",
         "LOGO": "/20569/1755852910991.png",
         "TOTAL_MKT_CAP_USD": 85476754.2658994
-    },
-    {
-        "SYMBOL": "RWA",
-        "URI": "allo",
-        "NAME": "Allo",
-        "LOGO": "/20561/1755789534128.png",
-        "TOTAL_MKT_CAP_USD": 15436337.177262
-    },
-    {
-        "SYMBOL": "K",
-        "URI": "sidekick",
-        "NAME": "Sidekick",
-        "LOGO": "/20559/1755788529169.png",
-        "TOTAL_MKT_CAP_USD": 413056.470649759
-    },
-    {
-        "SYMBOL": "BANK",
-        "URI": "lorenzo-protocol",
-        "NAME": "Lorenzo Protocol",
-        "LOGO": "/20556/1755785715436.png",
-        "TOTAL_MKT_CAP_USD": 26136874.735427678
-    },
-    {
-        "SYMBOL": "GAIA",
-        "URI": "gaia-token",
-        "NAME": "Gaia Token",
-        "LOGO": "/20553/1755769494389.png",
-        "TOTAL_MKT_CAP_USD": 8198386.42059195
-    },
-    {
-        "SYMBOL": "TED",
-        "URI": "tezos-domains",
-        "NAME": "Tezos Domains",
-        "LOGO": "/20552/1755767881911.png",
-        "TOTAL_MKT_CAP_USD": 396386.389310798
-    },
-    {
-        "SYMBOL": "PUBLIC",
-        "URI": "publicai",
-        "NAME": "PublicAI",
-        "LOGO": "/20547/1755684783584.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "CTM",
-        "URI": "c8ntinuum",
-        "NAME": "c8ntinuum",
-        "LOGO": "/20535/1755617663254.png",
-        "TOTAL_MKT_CAP_USD": 169242668.2454269
-    },
-    {
-        "SYMBOL": "OVL",
-        "URI": "overlay",
-        "NAME": "Overlay",
-        "LOGO": "/20534/1755617165722.png",
-        "TOTAL_MKT_CAP_USD": 651647.7561327524
-    },
-    {
-        "SYMBOL": "TCOM",
-        "URI": "tcom",
-        "NAME": "TCOM",
-        "LOGO": "/20529/1755610740693.png",
-        "TOTAL_MKT_CAP_USD": 8827079.318828601
-    },
-    {
-        "SYMBOL": "PLOT",
-        "URI": "plot",
-        "NAME": "PlotX",
-        "LOGO": "/2052/1675350613801.png",
-        "TOTAL_MKT_CAP_USD": 647678.29787019
-    },
-    {
-        "SYMBOL": "AOL",
-        "URI": "aol-america-online",
-        "NAME": "AOL (America Online)",
-        "LOGO": "/20511/1755530613970.png",
-        "TOTAL_MKT_CAP_USD": 978119.2331529533
-    },
-    {
-        "SYMBOL": "BMAX",
-        "URI": "bmax",
-        "NAME": "BMAX",
-        "LOGO": "/2051/1675350316746.png",
-        "TOTAL_MKT_CAP_USD": 67263814.473868
-    },
-    {
-        "SYMBOL": "KAT",
-        "URI": "katana-network",
-        "NAME": "Katana",
-        "LOGO": "/20482/1773841317339.png",
-        "TOTAL_MKT_CAP_USD": 85079301.0331319
-    },
-    {
-        "SYMBOL": "IN",
-        "URI": "infinit",
-        "NAME": "INFINIT",
-        "LOGO": "/20472/1754993088950.png",
-        "TOTAL_MKT_CAP_USD": 58954304.434247
-    },
-    {
-        "SYMBOL": "PM",
-        "URI": "pumpmeme",
-        "NAME": "PumpMeme",
-        "LOGO": "/20470/1754991066595.png",
-        "TOTAL_MKT_CAP_USD": 126462907.97064501
-    },
-    {
-        "SYMBOL": "MEA",
-        "URI": "mecca",
-        "NAME": "MECCA",
-        "LOGO": "/20464/1754985807926.png",
-        "TOTAL_MKT_CAP_USD": 10606841.57215064
-    },
-    {
-        "SYMBOL": "TALEX",
-        "URI": "talex",
-        "NAME": "TaleX",
-        "LOGO": "/20462/1754927152594.png",
-        "TOTAL_MKT_CAP_USD": 7607649.242025499
-    },
-    {
-        "SYMBOL": "RION",
-        "URI": "hyperion",
-        "NAME": "Hyperion",
-        "LOGO": "/20454/1754917614125.png",
-        "TOTAL_MKT_CAP_USD": 20674958.5046786
-    },
-    {
-        "SYMBOL": "MINDFAK",
-        "URI": "mindfak-by-matt-furie",
-        "NAME": "Mindfak By Matt Furie",
-        "LOGO": "/20450/1754907182466.png",
-        "TOTAL_MKT_CAP_USD": 254749.6892447389
-    },
-    {
-        "SYMBOL": "CRETA",
-        "URI": "creta",
-        "NAME": "Creta World",
-        "LOGO": "/2045/1675348263105.png",
-        "TOTAL_MKT_CAP_USD": 20778493.6368593
-    },
-    {
-        "SYMBOL": "UNITE",
-        "URI": "unite",
-        "NAME": "Unite",
-        "LOGO": "/20442/1754663111632.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "FELIS",
-        "URI": "felis",
-        "NAME": "Felis",
-        "LOGO": "/20430/1754581056146.png",
-        "TOTAL_MKT_CAP_USD": 195070.97024076406
-    },
-    {
-        "SYMBOL": "FROGGIE",
-        "URI": "froggie",
-        "NAME": "Froggie",
-        "LOGO": "/20423/1754492299872.png",
-        "TOTAL_MKT_CAP_USD": 5200778.749535911
-    },
-    {
-        "SYMBOL": "TOWNS",
-        "URI": "towns",
-        "NAME": "Towns",
-        "LOGO": "/20419/1754466502333.png",
-        "TOTAL_MKT_CAP_USD": 33942625.06258482
-    },
-    {
-        "SYMBOL": "GLIDR",
-        "URI": "glidr",
-        "NAME": "Glidr",
-        "LOGO": "/20417/1754408013037.png",
-        "TOTAL_MKT_CAP_USD": 124489947.374418
-    },
-    {
-        "SYMBOL": "PECH",
-        "URI": "pepe-cash",
-        "NAME": "PEPE CASH (pepecash.live)",
-        "LOGO": "/20405/1754387628612.png",
-        "TOTAL_MKT_CAP_USD": 469615.424902701
-    },
-    {
-        "SYMBOL": "AIO",
-        "URI": "aio",
-        "NAME": "OLAXBT",
-        "LOGO": "/20395/1774279320255.png",
-        "TOTAL_MKT_CAP_USD": 106885129.74293101
-    },
-    {
-        "SYMBOL": "TPTU",
-        "URI": "trading-and-payment-token",
-        "NAME": "Trading and Payment Token",
-        "LOGO": "/20392/1754314451051.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "URANUS",
-        "URI": "uranus",
-        "NAME": "Uranus",
-        "LOGO": "/20390/1754311832543.png",
-        "TOTAL_MKT_CAP_USD": 2120895.1757766823
-    },
-    {
-        "SYMBOL": "NAORIS",
-        "URI": "naoris-protocol",
-        "NAME": "Naoris Protocol",
-        "LOGO": "/20389/1754311110381.png",
-        "TOTAL_MKT_CAP_USD": 174215635.2912664
-    },
-    {
-        "SYMBOL": "DELABS",
-        "URI": "delabs-games",
-        "NAME": "Delabs Games",
-        "LOGO": "/20361/1753703643886.png",
-        "TOTAL_MKT_CAP_USD": 382158.82193768653
-    },
-    {
-        "SYMBOL": "PHY",
-        "URI": "dephy",
-        "NAME": "DePHY",
-        "LOGO": "/20352/1753694282104.png",
-        "TOTAL_MKT_CAP_USD": 72161.02334112299
-    },
-    {
-        "SYMBOL": "PIPONHL",
-        "URI": "pip-on-hl",
-        "NAME": "PiP",
-        "LOGO": "/20344/1753454886043.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "FEUSD",
-        "URI": "felix-feusd",
-        "NAME": "Felix feUSD",
-        "LOGO": "/20339/1753437888309.png",
-        "TOTAL_MKT_CAP_USD": 13474204.093784003
-    },
-    {
-        "SYMBOL": "USDXL",
-        "URI": "last-usd",
-        "NAME": "Last USD",
-        "LOGO": "/20337/1753434849999.png",
-        "TOTAL_MKT_CAP_USD": 888255.8834861594
-    },
-    {
-        "SYMBOL": "ES",
-        "URI": "es",
-        "NAME": "Eclipse",
-        "LOGO": "/20321/1753349771892.png",
-        "TOTAL_MKT_CAP_USD": 152702384.863555
-    },
-    {
-        "SYMBOL": "KLK",
-        "URI": "klickl-token",
-        "NAME": "Klickl Token",
-        "LOGO": "/20319/1753349067908.png",
-        "TOTAL_MKT_CAP_USD": 29453395.9291781
-    },
-    {
-        "SYMBOL": "ZKWASM",
-        "URI": "zkwasm-token",
-        "NAME": "ZKWASM Token",
-        "LOGO": "/20299/1753261570958.png",
-        "TOTAL_MKT_CAP_USD": 3591658.81980567
-    },
-    {
-        "SYMBOL": "MARIE",
-        "URI": "marie-rose",
-        "NAME": "Marie Rose",
-        "LOGO": "/20292/1753257319674.png",
-        "TOTAL_MKT_CAP_USD": 201885.13064940777
-    },
-    {
-        "SYMBOL": "TA",
-        "URI": "trusta-ai",
-        "NAME": "Trusta.AI",
-        "LOGO": "/20281/1753174255107.png",
-        "TOTAL_MKT_CAP_USD": 3577018.7440502653
-    },
-    {
-        "SYMBOL": "MBG",
-        "URI": "mbg-token",
-        "NAME": "MBG Token",
-        "LOGO": "/20272/1753089964338.png",
-        "TOTAL_MKT_CAP_USD": 311048226.62364775
-    },
-    {
-        "SYMBOL": "ESPORTS",
-        "URI": "yooldo-games",
-        "NAME": "Yooldo Games",
-        "LOGO": "/20267/1753085475396.png",
-        "TOTAL_MKT_CAP_USD": 628332171.5306484
-    },
-    {
-        "SYMBOL": "STORM",
-        "URI": "storm",
-        "NAME": "STORM",
-        "LOGO": "/20262/1752757231424.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "VXT",
-        "URI": "vxt",
-        "NAME": "Voxto Amplify",
-        "LOGO": "/2026/1675332862090.png",
-        "TOTAL_MKT_CAP_USD": 38319386.399705164
-    },
-    {
-        "SYMBOL": "FNA",
-        "URI": "fintech-ai",
-        "NAME": "FinTech AI",
-        "LOGO": "/20251/1752654626619.png",
-        "TOTAL_MKT_CAP_USD": 51294500.922926
-    },
-    {
-        "SYMBOL": "DRDR",
-        "URI": "drdr-token",
-        "NAME": "DRDR Token",
-        "LOGO": "/20235/1752566291274.png",
-        "TOTAL_MKT_CAP_USD": 242432413.26410168
-    },
-    {
-        "SYMBOL": "TALE",
-        "URI": "promptale-ai",
-        "NAME": "PrompTale AI",
-        "LOGO": "/20234/1752565570637.png",
-        "TOTAL_MKT_CAP_USD": 801571.007757785
-    },
-    {
-        "SYMBOL": "VELVET",
-        "URI": "velvet",
-        "NAME": "Velvet",
-        "LOGO": "/20206/1752143518400.png",
-        "TOTAL_MKT_CAP_USD": 119054666.031325
-    },
-    {
-        "SYMBOL": "SAI",
-        "URI": "sharpe-ai",
-        "NAME": "Sharpe AI",
-        "LOGO": "/20202/1752139902914.png",
-        "TOTAL_MKT_CAP_USD": 998629.965119831
-    },
-    {
-        "SYMBOL": "MORE",
-        "URI": "moonveil",
-        "NAME": "Moonveil",
-        "LOGO": "/20201/1752137354937.png",
-        "TOTAL_MKT_CAP_USD": 71334.6802245305
-    },
-    {
-        "SYMBOL": "MORI",
-        "URI": "mori-coin",
-        "NAME": "MORI COIN",
-        "LOGO": "/20199/1752136583470.png",
-        "TOTAL_MKT_CAP_USD": 5974499.950917931
-    },
-    {
-        "SYMBOL": "BTCBULL",
-        "URI": "btc-bull",
-        "NAME": "BTC Bull",
-        "LOGO": "/20181/1752047213686.png",
-        "TOTAL_MKT_CAP_USD": 2498533.937991202
-    },
-    {
-        "SYMBOL": "FRIN",
-        "URI": "frin",
-        "NAME": "Fringe Finance",
-        "LOGO": "/2018/1675330082996.png",
-        "TOTAL_MKT_CAP_USD": 60967.076769002604
-    },
-    {
-        "SYMBOL": "MAY",
-        "URI": "mayflower",
-        "NAME": "Mayflower",
-        "LOGO": "/20176/1751961986770.png",
-        "TOTAL_MKT_CAP_USD": 8732111.288381534
-    },
-    {
-        "SYMBOL": "TRWA",
-        "URI": "trwa",
-        "NAME": "TRWA",
-        "LOGO": "/20167/1751881985308.png",
-        "TOTAL_MKT_CAP_USD": 4024388.99127807
-    },
-    {
-        "SYMBOL": "CROSS",
-        "URI": "cross",
-        "NAME": "Cross",
-        "LOGO": "/20162/1751879472930.png",
-        "TOTAL_MKT_CAP_USD": 96568313.655021
-    },
-    {
-        "SYMBOL": "ECHO",
-        "URI": "echo",
-        "NAME": "Echo",
-        "LOGO": "/20159/1751878673324.png",
-        "TOTAL_MKT_CAP_USD": 5941694.86122747
-    },
-    {
-        "SYMBOL": "ICNT",
-        "URI": "impossible-cloud-network-token",
-        "NAME": "Impossible Cloud Network Token",
-        "LOGO": "/20158/1751875674524.png",
-        "TOTAL_MKT_CAP_USD": 223810018.71999612
-    },
-    {
-        "SYMBOL": "RATO",
-        "URI": "rato",
-        "NAME": "Rato The Rat (ratotherat.com)",
-        "LOGO": "/20153/1751555008806.png",
-        "TOTAL_MKT_CAP_USD": 205184.39086996065
-    },
-    {
-        "SYMBOL": "NODE",
-        "URI": "nodeops",
-        "NAME": "NodeOps",
-        "LOGO": "/20151/1751549066663.png",
-        "TOTAL_MKT_CAP_USD": 7489701.765897179
-    },
-    {
-        "SYMBOL": "NSURE",
-        "URI": "nsure",
-        "NAME": "Nsure Network",
-        "LOGO": "/2015/1675329808801.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "XO",
-        "URI": "xociety",
-        "NAME": "XOCIETY",
-        "LOGO": "/20144/1751533029972.png",
-        "TOTAL_MKT_CAP_USD": 184151.65884168
-    },
-    {
-        "SYMBOL": "DMC",
-        "URI": "delorean",
-        "NAME": "DeLorean",
-        "LOGO": "/20137/1751471069000.png",
-        "TOTAL_MKT_CAP_USD": 8397312.100744704
-    },
-    {
-        "SYMBOL": "KOBUSHI",
-        "URI": "kobushi",
-        "NAME": "Kobushi",
-        "LOGO": "/20130/1751467095535.png",
-        "TOTAL_MKT_CAP_USD": 20854.962360358415
-    },
-    {
-        "SYMBOL": "XAUT0",
-        "URI": "xaut0",
-        "NAME": "XAUt0",
-        "LOGO": "/20126/1751464669093.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "YURU",
-        "URI": "yuru-coin",
-        "NAME": "YURU COIN",
-        "LOGO": "/20072/1751363866677.png",
-        "TOTAL_MKT_CAP_USD": 3116765.7310398105
-    },
-    {
-        "SYMBOL": "BLUM",
-        "URI": "blum",
-        "NAME": "Blum",
-        "LOGO": "/20059/1751359252017.png",
-        "TOTAL_MKT_CAP_USD": 3287998.42941702
-    },
-    {
-        "SYMBOL": "KNCH",
-        "URI": "kaanch-network",
-        "NAME": "Kaanch Network",
-        "LOGO": "/20058/1751358743646.png",
-        "TOTAL_MKT_CAP_USD": 2316593.6461832207
-    },
-    {
-        "SYMBOL": "ESX",
-        "URI": "estatex",
-        "NAME": "EstateX",
-        "LOGO": "/20052/1751288440251.png",
-        "TOTAL_MKT_CAP_USD": 4603439.639476993
-    },
-    {
-        "SYMBOL": "SPK",
-        "URI": "spark",
-        "NAME": "Spark",
-        "LOGO": "/20051/1751279298324.png",
-        "TOTAL_MKT_CAP_USD": 323512939.154915
-    },
-    {
-        "SYMBOL": "IMT",
-        "URI": "immortal-token",
-        "NAME": "Immortal Token",
-        "LOGO": "/20042/1751021636546.png",
-        "TOTAL_MKT_CAP_USD": 3067140.3954003
-    },
-    {
-        "SYMBOL": "CUDIS",
-        "URI": "cudis",
-        "NAME": "Cudis",
-        "LOGO": "/20040/1751019158845.png",
-        "TOTAL_MKT_CAP_USD": 4605315.424882039
-    },
-    {
-        "SYMBOL": "BOMB",
-        "URI": "bombie",
-        "NAME": "Bombie",
-        "LOGO": "/20028/1750929548106.png",
-        "TOTAL_MKT_CAP_USD": 184701.166027994
-    },
-    {
-        "SYMBOL": "KRRX",
-        "URI": "krrx",
-        "NAME": "Kyrrex",
-        "LOGO": "/2001/1675264380382.png",
-        "TOTAL_MKT_CAP_USD": 26185909.54434645
-    },
-    {
-        "SYMBOL": "NURA",
-        "URI": "nura-labs",
-        "NAME": "Nura Labs",
-        "LOGO": "/20001/1750671289932.png",
-        "TOTAL_MKT_CAP_USD": 166871.00786937898
-    },
-    {
-        "SYMBOL": "FLAME",
-        "URI": "flame",
-        "NAME": "FireStarter",
-        "LOGO": "/1999/1675263492575.png",
-        "TOTAL_MKT_CAP_USD": 20988.7840693435
-    },
-    {
-        "SYMBOL": "TAP",
-        "URI": "tap",
-        "NAME": "Tap",
-        "LOGO": "/19988/1750419185582.png",
-        "TOTAL_MKT_CAP_USD": 7455828.2368772365
-    },
-    {
-        "SYMBOL": "GASS",
-        "URI": "gasspas",
-        "NAME": "Gasspas",
-        "LOGO": "/19979/1750261252840.png",
-        "TOTAL_MKT_CAP_USD": 423254.4370049452
-    },
-    {
-        "SYMBOL": "USDUC",
-        "URI": "unstable-coin",
-        "NAME": "Unstable Coin",
-        "LOGO": "/19975/1750258099777.png",
-        "TOTAL_MKT_CAP_USD": 6141052.931705233
-    },
-    {
-        "SYMBOL": "A7A5",
-        "URI": "a7a5",
-        "NAME": "A7A5",
-        "LOGO": "/19964/1750240803452.png",
-        "TOTAL_MKT_CAP_USD": 498448860.69835126
-    },
-    {
-        "SYMBOL": "MIH",
-        "URI": "mine-coin",
-        "NAME": "MINE COIN",
-        "LOGO": "/19962/1750240053437.png",
-        "TOTAL_MKT_CAP_USD": 301755714.181954
-    },
-    {
-        "SYMBOL": "ROVR",
-        "URI": "rovr-network",
-        "NAME": "ROVR Network",
-        "LOGO": "/19961/1750239619208.png",
-        "TOTAL_MKT_CAP_USD": 30797552.950222846
-    },
-    {
-        "SYMBOL": "NILA",
-        "URI": "mindwave",
-        "NAME": "MindWave",
-        "LOGO": "/19931/1750064616037.png",
-        "TOTAL_MKT_CAP_USD": 82838227.78752692
-    },
-    {
-        "SYMBOL": "MOOLAH",
-        "URI": "moolah",
-        "NAME": "Moolah",
-        "LOGO": "/19924/1749806314524.png",
-        "TOTAL_MKT_CAP_USD": 18427394.6940691
-    },
-    {
-        "SYMBOL": "LBAI",
-        "URI": "lemmy-the-bat",
-        "NAME": "Lemmy The Bat",
-        "LOGO": "/19918/1749740985208.png",
-        "TOTAL_MKT_CAP_USD": 91900.43609268879
-    },
-    {
-        "SYMBOL": "LIBERTY",
-        "URI": "torch-of-liberty",
-        "NAME": "Torch of Liberty",
-        "LOGO": "/19909/1749724266472.png",
-        "TOTAL_MKT_CAP_USD": 14112088.080141
-    },
-    {
-        "SYMBOL": "ECOR",
-        "URI": "ecorpay-token",
-        "NAME": "Ecorpay token",
-        "LOGO": "/19897/1749652756807.png",
-        "TOTAL_MKT_CAP_USD": 253364696.8884721
-    },
-    {
-        "SYMBOL": "IDOL",
-        "URI": "meet48-token",
-        "NAME": "MEET48 Token",
-        "LOGO": "/19890/1749641108541.png",
-        "TOTAL_MKT_CAP_USD": 123262812.66536927
-    },
-    {
-        "SYMBOL": "MARS4",
-        "URI": "mars4",
-        "NAME": "MARS4",
-        "LOGO": "/1989/1675259408462.png",
-        "TOTAL_MKT_CAP_USD": 342119.8627382444
-    },
-    {
-        "SYMBOL": "1R0R",
-        "URI": "r0ar-token",
-        "NAME": "R0AR TOKEN",
-        "LOGO": "/19882/1749481803215.png",
-        "TOTAL_MKT_CAP_USD": 7564858.352710235
-    },
-    {
-        "SYMBOL": "CCDOG",
-        "URI": "courage-the-dog",
-        "NAME": "Courage The Dog",
-        "LOGO": "/19874/1749464215542.png",
-        "TOTAL_MKT_CAP_USD": 48273.6906291928
-    },
-    {
-        "SYMBOL": "SUT",
-        "URI": "supertrust",
-        "NAME": "SuperTrust",
-        "LOGO": "/19863/1749219998773.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "DREAMS",
-        "URI": "daydreams",
-        "NAME": "Daydreams",
-        "LOGO": "/19854/1749133455886.png",
-        "TOTAL_MKT_CAP_USD": 5168273.082909061
-    },
-    {
-        "SYMBOL": "COOK",
-        "URI": "cook",
-        "NAME": "COOK",
-        "LOGO": "/19849/1749122869771.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ANON",
-        "URI": "heyanon",
-        "NAME": "HeyAnon",
-        "LOGO": "/19843/1749118160985.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "CHIRP",
-        "URI": "chirp-token",
-        "NAME": "Chirp Token",
-        "LOGO": "/19839/1749116041533.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "CFI",
-        "URI": "cyberfi-token",
-        "NAME": "CyberFi Token",
-        "LOGO": "/19830/1749111754426.png",
-        "TOTAL_MKT_CAP_USD": 103736.69760842665
-    },
-    {
-        "SYMBOL": "TRIO",
-        "URI": "trio",
-        "NAME": "TRIO",
-        "LOGO": "/19819/1749035667628.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "GAT",
-        "URI": "gat",
-        "NAME": "Gather",
-        "LOGO": "/19818/1749035075696.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "KORI",
-        "URI": "kori-the-pom",
-        "NAME": "Kori The Pom",
-        "LOGO": "/19808/1749025822670.png",
-        "TOTAL_MKT_CAP_USD": 2620350.5784955914
     },
     {
         "SYMBOL": "BDXN",
@@ -12765,7 +10672,7 @@
         "URI": "rlb",
         "NAME": "Rollbit Coin",
         "LOGO": "/1969/1675244585576.png",
-        "TOTAL_MKT_CAP_USD": 114779704.83759868
+        "TOTAL_MKT_CAP_USD": 114775948.0733375
     },
     {
         "SYMBOL": "RUNESX",
@@ -13164,7 +11071,7 @@
         "URI": "hello",
         "NAME": "HELLO",
         "LOGO": "/1939/1675178044861.png",
-        "TOTAL_MKT_CAP_USD": 3448975.58015657
+        "TOTAL_MKT_CAP_USD": 3478363.7279398497
     },
     {
         "SYMBOL": "PAI",
@@ -13248,7 +11155,7 @@
         "URI": "walletconnect",
         "NAME": "WalletConnect",
         "LOGO": "/19323/1744792906342.png",
-        "TOTAL_MKT_CAP_USD": 59698499.744085506
+        "TOTAL_MKT_CAP_USD": 59698375.658486426
     },
     {
         "SYMBOL": "BDTC",
@@ -13290,7 +11197,7 @@
         "URI": "trump-ip",
         "NAME": "TRUMP IP",
         "LOGO": "/19284/1744382893255.png",
-        "TOTAL_MKT_CAP_USD": 24343686.24265656
+        "TOTAL_MKT_CAP_USD": 24455106.031261962
     },
     {
         "SYMBOL": "PROMPT",
@@ -13325,7 +11232,7 @@
         "URI": "rwa-ecosystem",
         "NAME": "RWA Ecosystem",
         "LOGO": "/19261/1744186760043.png",
-        "TOTAL_MKT_CAP_USD": 7222326.616806049
+        "TOTAL_MKT_CAP_USD": 7224334.631603716
     },
     {
         "SYMBOL": "BMT",
@@ -13353,7 +11260,7 @@
         "URI": "deeplink",
         "NAME": "DeepLink",
         "LOGO": "/19230/1743686854353.png",
-        "TOTAL_MKT_CAP_USD": 633258.9091536351
+        "TOTAL_MKT_CAP_USD": 633256.351721312
     },
     {
         "SYMBOL": "BNKR",
@@ -13437,7 +11344,7 @@
         "URI": "quai-network",
         "NAME": "Quai Network",
         "LOGO": "/19122/1770284487278.png",
-        "TOTAL_MKT_CAP_USD": 28510738.969579168
+        "TOTAL_MKT_CAP_USD": 28511895.79324913
     },
     {
         "SYMBOL": "BANANAS31",
@@ -13528,7 +11435,7 @@
         "URI": "frax-usd",
         "NAME": "Frax USD",
         "LOGO": "/19010/1742202990566.png",
-        "TOTAL_MKT_CAP_USD": 114863304.49002351
+        "TOTAL_MKT_CAP_USD": 114874587.28888349
     },
     {
         "SYMBOL": "OIK",
@@ -13584,7 +11491,7 @@
         "URI": "wrapped-react",
         "NAME": "Wrapped REACT",
         "LOGO": "/18960/1741695784652.png",
-        "TOTAL_MKT_CAP_USD": 7893688.174312374
+        "TOTAL_MKT_CAP_USD": 7893824.015770007
     },
     {
         "SYMBOL": "BRKL",
@@ -13717,7 +11624,7 @@
         "URI": "japan",
         "NAME": "Japan Open Chain",
         "LOGO": "/18768/1740479275747.png",
-        "TOTAL_MKT_CAP_USD": 46967920.61116834
+        "TOTAL_MKT_CAP_USD": 46967920.611379445
     },
     {
         "SYMBOL": "TRUT",
@@ -14032,7 +11939,7 @@
         "URI": "wkeydao",
         "NAME": "WebKey DAO",
         "LOGO": "/18440/1737970597718.png",
-        "TOTAL_MKT_CAP_USD": 14250283.823055407
+        "TOTAL_MKT_CAP_USD": 14250283.304876762
     },
     {
         "SYMBOL": "TJRM",
@@ -14172,7 +12079,7 @@
         "URI": "drop",
         "NAME": "DROP",
         "LOGO": "/18235/1734603777294.png",
-        "TOTAL_MKT_CAP_USD": 3755496.0644297865
+        "TOTAL_MKT_CAP_USD": 3755496.064429785
     },
     {
         "SYMBOL": "RAIL",
@@ -14186,7 +12093,7 @@
         "URI": "lingo",
         "NAME": "Lingo",
         "LOGO": "/18228/1734536083669.png",
-        "TOTAL_MKT_CAP_USD": 4624198.756001757
+        "TOTAL_MKT_CAP_USD": 4624247.395192486
     },
     {
         "SYMBOL": "MONKY",
@@ -14368,7 +12275,7 @@
         "URI": "gout",
         "NAME": "GOUT",
         "LOGO": "/17959/1732205729232.png",
-        "TOTAL_MKT_CAP_USD": 769016.7240345692
+        "TOTAL_MKT_CAP_USD": 769002.9997839798
     },
     {
         "SYMBOL": "CUUT",
@@ -14417,7 +12324,7 @@
         "URI": "usacoin",
         "NAME": "American Coin",
         "LOGO": "/17808/1731512103115.png",
-        "TOTAL_MKT_CAP_USD": 3281278.2776310625
+        "TOTAL_MKT_CAP_USD": 3281277.6389258197
     },
     {
         "SYMBOL": "CGO",
@@ -14459,7 +12366,7 @@
         "URI": "unit0",
         "NAME": "UNIT0",
         "LOGO": "/17710/1731067501812.png",
-        "TOTAL_MKT_CAP_USD": 1478654.9445841638
+        "TOTAL_MKT_CAP_USD": 1478666.4181199034
     },
     {
         "SYMBOL": "ARCA",
@@ -14571,7 +12478,7 @@
         "URI": "fbomb",
         "NAME": "fBomb",
         "LOGO": "/17524/1729591558077.png",
-        "TOTAL_MKT_CAP_USD": 4389638.290720958
+        "TOTAL_MKT_CAP_USD": 4389572.363511023
     },
     {
         "SYMBOL": "KONAN",
@@ -14655,7 +12562,7 @@
         "URI": "everv",
         "NAME": "EverValue Coin",
         "LOGO": "/17358/1728638641949.png",
-        "TOTAL_MKT_CAP_USD": 741542341.3838923
+        "TOTAL_MKT_CAP_USD": 741542014.5612798
     },
     {
         "SYMBOL": "STOREP",
@@ -15075,7 +12982,7 @@
         "URI": "notc",
         "NAME": "NOT",
         "LOGO": "/16250/1722857823457.png",
-        "TOTAL_MKT_CAP_USD": 3512763167.7907257
+        "TOTAL_MKT_CAP_USD": 3512516363.277052
     },
     {
         "SYMBOL": "PACK",
@@ -15789,7 +13696,7 @@
         "URI": "hamster",
         "NAME": "Hamster",
         "LOGO": "/1477/1673626286681.png",
-        "TOTAL_MKT_CAP_USD": 1464204.4509898098
+        "TOTAL_MKT_CAP_USD": 1465216.99499912
     },
     {
         "SYMBOL": "AIACHAIN",
@@ -16093,706 +14000,6 @@
         "TOTAL_MKT_CAP_USD": 1510006.7399201642
     },
     {
-        "SYMBOL": "EFT",
-        "URI": "eft",
-        "NAME": "ETH Fan Token Ecosystem",
-        "LOGO": "/14023/1713874464205.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "IVPAY",
-        "URI": "ivpay",
-        "NAME": "ivendPay",
-        "LOGO": "/14012/1713800439367.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "MCTP",
-        "URI": "mctp",
-        "NAME": "Metacraft",
-        "LOGO": "/14011/1713800195526.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BCUT",
-        "URI": "bcut",
-        "NAME": "bitsCrunch",
-        "LOGO": "/14010/1713799883608.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "NEURAL",
-        "URI": "neural",
-        "NAME": "NeuralAI",
-        "LOGO": "/14001/1734533109746.png",
-        "TOTAL_MKT_CAP_USD": 5181565.195006969
-    },
-    {
-        "SYMBOL": "MAZZE",
-        "URI": "mazze",
-        "NAME": "Mazze",
-        "LOGO": "/13985/1713786690840.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "WLUNC",
-        "URI": "wlunc",
-        "NAME": "Wrapped LUNA Classic",
-        "LOGO": "/13977/1713781896681.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SVPN",
-        "URI": "svpn",
-        "NAME": "Shadow Node",
-        "LOGO": "/13970/1713780681567.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "DEVVE",
-        "URI": "devve",
-        "NAME": "Devve",
-        "LOGO": "/13955/1713778119645.png",
-        "TOTAL_MKT_CAP_USD": 4069823.4735210966
-    },
-    {
-        "SYMBOL": "DOGINME",
-        "URI": "doginme",
-        "NAME": "doginme",
-        "LOGO": "/13950/1713774942544.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SOLCHAT",
-        "URI": "solchat",
-        "NAME": "Solchat",
-        "LOGO": "/13909/1713437175260.png",
-        "TOTAL_MKT_CAP_USD": 582360.7926914463
-    },
-    {
-        "SYMBOL": "HASHAI",
-        "URI": "hashai",
-        "NAME": "HashAI",
-        "LOGO": "/13907/1713432631549.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "FENE",
-        "URI": "fenerbahce-token",
-        "NAME": "Fenerbahçe Token",
-        "LOGO": "/1386/1673449501594.png",
-        "TOTAL_MKT_CAP_USD": 12174262.69411127
-    },
-    {
-        "SYMBOL": "MIM",
-        "URI": "mim",
-        "NAME": "Magic Internet Money",
-        "LOGO": "/1385/1673449276812.png",
-        "TOTAL_MKT_CAP_USD": 157328147.20928532
-    },
-    {
-        "SYMBOL": "GHX",
-        "URI": "ghx",
-        "NAME": "GamerCoin",
-        "LOGO": "/1381/1673447615856.png",
-        "TOTAL_MKT_CAP_USD": 7072623.57070663
-    },
-    {
-        "SYMBOL": "AGRS",
-        "URI": "agrs",
-        "NAME": "Agoras: Currency of Tau",
-        "LOGO": "/1380/1673446639553.png",
-        "TOTAL_MKT_CAP_USD": 16275390.331113102
-    },
-    {
-        "SYMBOL": "EXM",
-        "URI": "exm",
-        "NAME": "EXMO Coin",
-        "LOGO": "/1378/1673445793031.png",
-        "TOTAL_MKT_CAP_USD": 2432771.516325939
-    },
-    {
-        "SYMBOL": "OVN",
-        "URI": "ovn",
-        "NAME": "Overnight",
-        "LOGO": "/13733/1713169801973.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SQT",
-        "URI": "sqt",
-        "NAME": "SubQuery Network",
-        "LOGO": "/13700/1712846342711.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BABYBNBTIGER",
-        "URI": "babybnbtiger",
-        "NAME": "BabyBNBTiger",
-        "LOGO": "/13699/1712846214951.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "REDO",
-        "URI": "redo",
-        "NAME": "Resistance Dog",
-        "LOGO": "/13688/1712831724752.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "COBE",
-        "URI": "cobe",
-        "NAME": "Castle of Blackwater",
-        "LOGO": "/13669/1712827907136.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "LAUNCHMOBY",
-        "URI": "launchmoby",
-        "NAME": "Moby",
-        "LOGO": "/13661/1712827047988.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "OORT",
-        "URI": "oort",
-        "NAME": "OORT",
-        "LOGO": "/13654/1712823847362.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "FRENPET",
-        "URI": "frenpet",
-        "NAME": "Fren Pet",
-        "LOGO": "/13648/1712822178549.png",
-        "TOTAL_MKT_CAP_USD": 1256393.8761347653
-    },
-    {
-        "SYMBOL": "DEAI",
-        "URI": "deai",
-        "NAME": "Zero1 Lab",
-        "LOGO": "/13645/1712763408975.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "NIBI",
-        "URI": "nibi",
-        "NAME": "Nibiru Chain",
-        "LOGO": "/13642/1712762180528.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "POLA",
-        "URI": "pola",
-        "NAME": "Polaris Share",
-        "LOGO": "/1362/1673433021712.png",
-        "TOTAL_MKT_CAP_USD": 34702380.20693789
-    },
-    {
-        "SYMBOL": "SNSY",
-        "URI": "snsy",
-        "NAME": "Sensay",
-        "LOGO": "/13610/1712744124465.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BNBFROG",
-        "URI": "bnbfrog",
-        "NAME": "BNBFROG",
-        "LOGO": "/13581/1712676090266.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "TRA",
-        "URI": "tra",
-        "NAME": "Trabzonspor Fan Token",
-        "LOGO": "/1355/1673431497486.png",
-        "TOTAL_MKT_CAP_USD": 2297777.6757722097
-    },
-    {
-        "SYMBOL": "SISC",
-        "URI": "sisc",
-        "NAME": "Shirushi Coin",
-        "LOGO": "/13501/1712328352179.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ZNX",
-        "URI": "znx",
-        "NAME": "ZENEX",
-        "LOGO": "/13498/1712327495281.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "LNDX",
-        "URI": "lndx",
-        "NAME": "LandX Finance",
-        "LOGO": "/13456/1712224272674.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SHIV",
-        "URI": "shiv",
-        "NAME": "Shiva Inu",
-        "LOGO": "/13454/1712223943561.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "HUND",
-        "URI": "hund",
-        "NAME": "HUND MEME COIN",
-        "LOGO": "/13424/1712158705367.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "GUI",
-        "URI": "gui",
-        "NAME": "Gui Inu",
-        "LOGO": "/13422/1712158451988.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "LMEOW",
-        "URI": "lmeow",
-        "NAME": "lmeow",
-        "LOGO": "/13355/1712072730448.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "DSYNC",
-        "URI": "dsync",
-        "NAME": "Destra Network",
-        "LOGO": "/13344/1712069479507.png",
-        "TOTAL_MKT_CAP_USD": 10449797.0720191
-    },
-    {
-        "SYMBOL": "AXLUSDC",
-        "URI": "axlusdc",
-        "NAME": "Axelar Wrapped USDC",
-        "LOGO": "/13332/1712065507893.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "CHKN",
-        "URI": "chkn",
-        "NAME": "Chickencoin",
-        "LOGO": "/13286/1711983566123.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ZKJ",
-        "URI": "zkj",
-        "NAME": "Polyhedra Network",
-        "LOGO": "/13283/1711983259171.png",
-        "TOTAL_MKT_CAP_USD": 11618159.1514226
-    },
-    {
-        "SYMBOL": "MDUS",
-        "URI": "mdus",
-        "NAME": "MEDIEUS",
-        "LOGO": "/13223/1711957026057.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "FLT",
-        "URI": "flt",
-        "NAME": "Fluence",
-        "LOGO": "/13210/1711638630559.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "CNS",
-        "URI": "cns",
-        "NAME": "Centric Cash",
-        "LOGO": "/1318/1673362401407.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "EL",
-        "URI": "el",
-        "NAME": "ELYSIA",
-        "LOGO": "/1317/1673362122176.png",
-        "TOTAL_MKT_CAP_USD": 12883971.771863336
-    },
-    {
-        "SYMBOL": "SEBA",
-        "URI": "seba",
-        "NAME": "Seba",
-        "LOGO": "/13143/1711534929650.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "NAP",
-        "URI": "nap",
-        "NAME": "Napoli Fan Token",
-        "LOGO": "/1314/1673361485341.png",
-        "TOTAL_MKT_CAP_USD": 2807146.1051726383
-    },
-    {
-        "SYMBOL": "BST",
-        "URI": "bst",
-        "NAME": "Blocksquare Token",
-        "LOGO": "/13126/1711459463012.png",
-        "TOTAL_MKT_CAP_USD": 1066512.2537814504
-    },
-    {
-        "SYMBOL": "AJNA",
-        "URI": "ajna",
-        "NAME": "Ajna Protocol",
-        "LOGO": "/13084/1711379770532.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "MYST",
-        "URI": "myst",
-        "NAME": "Mysterium",
-        "LOGO": "/1308/1673360217763.png",
-        "TOTAL_MKT_CAP_USD": 3897786.0985119473
-    },
-    {
-        "SYMBOL": "CHMPZ",
-        "URI": "chmpz",
-        "NAME": "Chimpzee",
-        "LOGO": "/13076/1711378971943.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "KOGE",
-        "URI": "koge",
-        "NAME": "BNB48 Club Token",
-        "LOGO": "/13012/1711033035652.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BTCV",
-        "URI": "btcv",
-        "NAME": "Bitcoin Vault",
-        "LOGO": "/1301/1673351926021.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "LIF3",
-        "URI": "lif3",
-        "NAME": "LIF3",
-        "LOGO": "/12921/1710924999492.png",
-        "TOTAL_MKT_CAP_USD": 16865474.536957186
-    },
-    {
-        "SYMBOL": "XDAI",
-        "URI": "xdai",
-        "NAME": "xDai",
-        "LOGO": "/1292/1673347081055.png",
-        "TOTAL_MKT_CAP_USD": 1257353477.7265818
-    },
-    {
-        "SYMBOL": "SWASH",
-        "URI": "swash",
-        "NAME": "Swash",
-        "LOGO": "/1291/1673346224373.png",
-        "TOTAL_MKT_CAP_USD": 1529442.0885972537
-    },
-    {
-        "SYMBOL": "FCT",
-        "URI": "fct",
-        "NAME": "FirmaChain",
-        "LOGO": "/1290/1673345872394.png",
-        "TOTAL_MKT_CAP_USD": 110959.89033804197
-    },
-    {
-        "SYMBOL": "WWDOGE",
-        "URI": "wwdoge",
-        "NAME": "Doge Chain Dog",
-        "LOGO": "/1285/1673283112060.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SMURFCATETH",
-        "URI": "smurfcateth",
-        "NAME": "Real Smurf Cat",
-        "LOGO": "/12843/1710516471610.png",
-        "TOTAL_MKT_CAP_USD": 671039.564980361
-    },
-    {
-        "SYMBOL": "QORPO",
-        "URI": "qorpo",
-        "NAME": "QORPO WORLD",
-        "LOGO": "/12829/1740496912037.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "NAVX",
-        "URI": "navx",
-        "NAME": "NAVI Protocol",
-        "LOGO": "/12823/1710426957071.png",
-        "TOTAL_MKT_CAP_USD": 11478860.326368298
-    },
-    {
-        "SYMBOL": "NOCHILL",
-        "URI": "nochill",
-        "NAME": "AVAX HAS NO CHILL",
-        "LOGO": "/12820/1710425914347.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ALVA",
-        "URI": "alvara protocol",
-        "NAME": "Alvara Protocol",
-        "LOGO": "/12808/1710407178305.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SFI",
-        "URI": "sfi",
-        "NAME": "Saffron.finance",
-        "LOGO": "/1277/1673274463501.png",
-        "TOTAL_MKT_CAP_USD": 10549144.604104778
-    },
-    {
-        "SYMBOL": "NMD",
-        "URI": "nmd",
-        "NAME": "Nexusmind",
-        "LOGO": "/12698/1710236588576.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BYTE",
-        "URI": "byte",
-        "NAME": "Byte",
-        "LOGO": "/12676/1709897795023.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "JETTON",
-        "URI": "jetton",
-        "NAME": "JetTon Game",
-        "LOGO": "/12659/1709827686338.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BEFE",
-        "URI": "befe",
-        "NAME": "BEFE",
-        "LOGO": "/12650/1709826920179.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "OMIKAMI",
-        "URI": "omikami",
-        "NAME": "Amaterasu Omikami",
-        "LOGO": "/12633/1709824555672.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "PLB",
-        "URI": "plb",
-        "NAME": "Paladeum",
-        "LOGO": "/12621/1709823398591.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "NEOX",
-        "URI": "neox",
-        "NAME": "Neoxa",
-        "LOGO": "/12613/1709822673308.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "RABI",
-        "URI": "rabi",
-        "NAME": "Rabi",
-        "LOGO": "/12590/1709809926066.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "KIBSHI",
-        "URI": "kibshi",
-        "NAME": "KiboShib",
-        "LOGO": "/12575/1709808176473.png",
-        "TOTAL_MKT_CAP_USD": 2963288.30500019
-    },
-    {
-        "SYMBOL": "PUPPIES",
-        "URI": "puppies",
-        "NAME": "I love puppies",
-        "LOGO": "/12570/1709807647595.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "WKC",
-        "URI": "wkc",
-        "NAME": "Wiki Cat",
-        "LOGO": "/12560/1709805830620.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BTAF",
-        "URI": "btaf",
-        "NAME": "BTAF token",
-        "LOGO": "/12517/1709735819877.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "STIMA",
-        "URI": "stima",
-        "NAME": "STIMA",
-        "LOGO": "/12516/1709735671494.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "UNP",
-        "URI": "unp",
-        "NAME": "UNIPOLY",
-        "LOGO": "/12497/1709722477491.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "OGY",
-        "URI": "ogy",
-        "NAME": "ORIGYN",
-        "LOGO": "/12492/1709721426563.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SPECTRE",
-        "URI": "spectre",
-        "NAME": "SPECTRE AI",
-        "LOGO": "/12491/1709721313975.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "YACHT",
-        "URI": "yacht",
-        "NAME": "YachtingVerse",
-        "LOGO": "/12466/1709715951215.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SFIN",
-        "URI": "sfin",
-        "NAME": "Songbird Finance",
-        "LOGO": "/12459/1709653788351.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "TBC",
-        "URI": "tbc",
-        "NAME": "Ten Best Coins",
-        "LOGO": "/1245/1673002439544.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SCM",
-        "URI": "scm",
-        "NAME": "ScamFari token",
-        "LOGO": "/12446/1709651856415.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "OMD",
-        "URI": "omd",
-        "NAME": "OneMillionDollars",
-        "LOGO": "/12445/1709651428864.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "BFG",
-        "URI": "bfg",
-        "NAME": "BFG Token",
-        "LOGO": "/12433/1709649625018.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "SMARS",
-        "URI": "smars",
-        "NAME": "SafeMars",
-        "LOGO": "/12423/1709638318659.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "PORTAL",
-        "URI": "portal",
-        "NAME": "Portal",
-        "LOGO": "/12337/1709544175900.png",
-        "TOTAL_MKT_CAP_USD": 9140429.40905104
-    },
-    {
-        "SYMBOL": "SSLX",
-        "URI": "sslx",
-        "NAME": "StarSlax",
-        "LOGO": "/12306/1709304311294.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "TAONU",
-        "URI": "taonu",
-        "NAME": "TAO INU",
-        "LOGO": "/12297/1709223625624.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ASR",
-        "URI": "asr",
-        "NAME": "AS Roma Fan Token",
-        "LOGO": "/1229/1672932801028.png",
-        "TOTAL_MKT_CAP_USD": 11905315.942861574
-    },
-    {
-        "SYMBOL": "FOOM",
-        "URI": "foom",
-        "NAME": "FOOM",
-        "LOGO": "/12287/1709221737657.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "ROKO",
-        "URI": "roko",
-        "NAME": "ROKO",
-        "LOGO": "/12279/1709218040580.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "INUINU",
-        "URI": "inuinu",
-        "NAME": "Inu Inu",
-        "LOGO": "/12205/1709113843209.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "M87",
-        "URI": "m87",
-        "NAME": "MESSIER",
-        "LOGO": "/12162/1709044089007.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "DHN",
-        "URI": "dhn",
-        "NAME": "Dohrnii",
-        "LOGO": "/12158/1709033863747.png",
-        "TOTAL_MKT_CAP_USD": 1453590730.5103426
-    },
-    {
-        "SYMBOL": "DEFX",
-        "URI": "defx",
-        "NAME": "DeFinity",
-        "LOGO": "/12110/1708961629397.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "IMO",
-        "URI": "imo",
-        "NAME": "IMO",
-        "LOGO": "/12107/1708961379742.png",
-        "TOTAL_MKT_CAP_USD": 0
-    },
-    {
-        "SYMBOL": "DUALV1",
-        "URI": "dualv1",
-        "NAME": "BLOCKv",
-        "LOGO": "/1203/1672911439725.png",
-        "TOTAL_MKT_CAP_USD": 24674440.285946887
-    },
-    {
         "SYMBOL": "DINGO",
         "URI": "dingo",
         "NAME": "Dingocoin",
@@ -17084,7 +14291,7 @@
         "URI": "xep",
         "NAME": "Electra Protocol",
         "LOGO": "/1149/1672821137644.png",
-        "TOTAL_MKT_CAP_USD": 3423412.177848708
+        "TOTAL_MKT_CAP_USD": 3423433.413236441
     },
     {
         "SYMBOL": "TEMCO",
@@ -17798,7 +15005,7 @@
         "URI": "dnx",
         "NAME": "Dynex",
         "LOGO": "/10384/1700665315191.png",
-        "TOTAL_MKT_CAP_USD": 1629331.5130785587
+        "TOTAL_MKT_CAP_USD": 1629337.151562142
     },
     {
         "SYMBOL": "MURA",
